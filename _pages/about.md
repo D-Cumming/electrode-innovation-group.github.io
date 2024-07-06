@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate astronomer at Leiden Observatory
+subtitle: Associate professor at Leiden Observatory
 
 profile:
   align: right
