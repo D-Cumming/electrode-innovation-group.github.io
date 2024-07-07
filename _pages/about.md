@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: BW.4.47</p>
-    <p>Gorlaeus Building</p>
-    <p>Einsteinweg 55</p>
-    <p>NL-2333 CC Leiden</p>
+    <p>Office: BW.4.47,</p>
+    <p>Gorlaeus Building,</p>
+    <p>Einsteinweg 55,</p>
+    <p>NL-2333 CC Leiden,</p>
     <p>The Netherlands</p>
 
 news: false # includes a list of news items
