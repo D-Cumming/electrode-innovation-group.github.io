@@ -6,6 +6,4 @@ nav: true
 nav_order: 5
 cv_pdf: CV.pdf
 description: Curriculum Vitae of Matthew A. Kenworthy
-toc:
-  sidebar: left
 ---
