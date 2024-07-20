@@ -6,7 +6,7 @@ description: GitHub repositories of software and academic papers that I have wri
 nav: true
 nav_order: 4
 ---
-
+<!-- 
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -16,7 +16,7 @@ nav_order: 4
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
 </div>
-
+ -->
 <!-- 
 ---
 

@@ -19,7 +19,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Contact me by email: <a href="mailto:kenworthy@strw.leidenuniv.nl">kenworthy@strw.leidenuniv.nl</a> or by phone: +31 (0) 71 527 8455.
+Contact me by email: <kenworthy@strw.leidenuniv.nl> or by phone: +31 (0) 71 527 8455.
 
 My group works on the direct imaging of extrasolar planets and their characterisation, the transits of giant ring systems in archival data, the search for exomoons and exocomets, and building and testing novel instrumentation.
 
