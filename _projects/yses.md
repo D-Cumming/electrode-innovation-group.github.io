@@ -4,7 +4,7 @@ title: YSES and WiSPIT
 description: Directly imaged exoplanets around Sun-like stars
 img: assets/img/yses/yses2_mondrian_small.jpg
 importance: 1
-category: work
+category: exoplanets
 related_publications: true
 ---
 

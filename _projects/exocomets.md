@@ -1,81 +1,64 @@
 ---
 layout: page
-title: Exocomets
+title: Exocomets around Beta Pictoris
 description: Seeing the shadows of exocomet tails in the Beta Pictoris system
-img: assets/img/12.jpg
+img: assets/img/exocomets/beta_pic_1_comet.jpg
 importance: 5
-category: exoplanets
+category: betapic
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exocomets/beta_pic_3_comets.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+The light curves of three exocomets seen towards Beta Pictoris.
 </div>
-<div class="row">
+
+In 2019 we saw the transit of a comet's tail in broadband light in another stellar system, Beta Pictoris {% cite 2019A&A...625L..13Z %}. The sensitivity of the TESS satellite enabled the detection of the distinctive shark's tooth shape predicted over 20 years earlier by Lecavelier Des Etangs.
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exocomets/fuzzy_beta_pic.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+The raw light curve of Beta Pictoris, dominated by the Delta Scuti pulsations of the star. Three black triangles indicate the location of the exocomet transits.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+The star itself is a Delta Scuti pulsator, ringing like a bell due to an internal pulsation driven by the Kappa-mechanism. Over 35 separate frequencies were removed from the light curve to reveal the shape of three exocomets during the 2019 TESS observations.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/exocomets/beta_pic_pulsation.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+The Delta Scuti pulsations of Beta Pictoris, fit by a multi frequency pulsation model. The black points are the data from TESS, the red line is the fit from the pulsation model, and the residuals from the fit are shown in the lower panel.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+A later paper {% cite 2022NatSR..12.5855L %} discovered an additional 27 exocomet transits over a total of 156 days, enabling a power law fit to the size distribution of the exocomets and showing similarities to those in our own Solar system.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/exocomets/beta_pic_cumul.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/exocomets/beta_pic_distrib.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+<div class="caption">
+The histogram of the exocomets detected in Beta Pictoris {% cite 2022NatSR..12.5855L %} and the power law distribution compared to the Solar system comets.
+</div>
+
+

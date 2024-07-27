@@ -1,16 +1,19 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: more
+nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: CV
+    permalink: /cv/
   - title: divider
-  - title: projects
+  - title: Projects
     permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Teaching
+    permalink: /teaching/
+  - title: divider
+  - title: Repos
+    permalink: /repositories/
 ---
