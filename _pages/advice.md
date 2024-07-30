@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unsolicited Advice
+title: Advice
 permalink: /advice/
 description: The advice you did not ask for, from the person you did not ask
 nav: true

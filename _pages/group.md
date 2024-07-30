@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /groovy/
-title: GROOVY Group
+title: GROOVY!
 description: The GROOVY Group at Leiden Observatory
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 The Kenworthy group at Leiden Observatory is called the GROOVY Group, which is short for "rin<b>G</b>s, brown dwa<b>R</b>fs, exomo<b>O</b>ns, and ex<b>O</b>planets <b>V</b>ersatile observator<b>Y</b>, and <b>GR</b>eat high c<b>O</b>ntrast imaging microwave kinetic ind<b>U</b>ctance detectors grou<b>P</b>".

@@ -3,8 +3,8 @@ layout: page
 permalink: /repositories/
 title: Repos
 description: GitHub repositories of software and academic papers that I have written.
-nav: false
-nav_order: 4
+nav: true
+nav_order: 10
 ---
 
 {% if site.data.repositories.github_repos %}

@@ -1,9 +1,9 @@
----
+add---
 ---
 @ARTICLE{2024A&A...687A..11V,
        author = {{van Dam}, Dirk M. and {Kenworthy}, Matthew A.},
         title = "{Beyond Circular Eclipsers (BeyonCE) light curve modelling. I. Shallot Explorer}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {methods: numerical, eclipses, planets and satellites: rings, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2024,
         month = jul,
@@ -15,14 +15,13 @@ archivePrefix = {arXiv},
        eprint = {2404.07378},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...687A..11V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2024A&A...687A..11V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2024MNRAS.530.3606M,
        author = {{Mustill}, Alexander J. and {Davies}, Melvyn B. and {Kenworthy}, Matthew A.},
         title = "{The formation of transiting circumplanetary debris discs from the disruption of satellite systems during planet-planet scattering}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {planets and satellites: dynamical evolution and stability, planets and satellites: gaseous planets, planets and satellites: rings, stars: individual: EPIC 220208795, Astrophysics - Earth and Planetary Astrophysics},
          year = 2024,
         month = jun,
@@ -34,14 +33,13 @@ archivePrefix = {arXiv},
        eprint = {2404.12239},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3606M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2024MNRAS.530.3606M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2024A&A...684A..73D,
        author = {{de Regt}, S. and {Ginski}, C. and {Kenworthy}, M.~A. and {Caceres}, C. and {Garufi}, A. and {Gledhill}, T.~M. and {Hales}, A.~S. and {Huelamo}, N. and {K{\'o}sp{\'a}l}, {\'A}. and {Millar-Blanchaer}, M.~A. and {P{\'e}rez}, S. and {Schreiber}, M.~R.},
         title = "{Polarimetric differential imaging with VLT/NACO. A comprehensive PDI pipeline for NACO data (PIPPIN)}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {methods: observational, techniques: polarimetric, planets and satellites: formation, protoplanetary disks, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2024,
         month = apr,
@@ -53,14 +51,13 @@ archivePrefix = {arXiv},
        eprint = {2404.02222},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024A&A...684A..73D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2024A&A...684A..73D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2024ApJ...963L...2S,
        author = {{Sallum}, Steph and {Ray}, Shrishmoy and {Kammerer}, Jens and {Sivaramakrishnan}, Anand and {Cooper}, Rachel and {Greebaum}, Alexandra Z. and {Thatte}, Deepashri and {De Furio}, Matthew and {Factor}, Samuel M. and {Meyer}, Michael R. and {Stone}, Jordan M. and {Carter}, Aarynn and {Biller}, Beth and {Hinkley}, Sasha and {Skemer}, Andrew and {Su{\'a}rez}, Genaro and {Leisenring}, Jarron M. and {Perrin}, Marshall D. and {Kraus}, Adam L. and {Absil}, Olivier and {Balmer}, William O. and {Betti}, Sarah K. and {Boccaletti}, Anthony and {Bonavita}, Mariangela and {Bonnefoy}, Mickael and {Booth}, Mark and {Bowler}, Brendan P. and {Briesemeister}, Zackery W. and {Bryan}, Marta L. and {Calissendorff}, Per and {Cantalloube}, Faustine and {Chauvin}, Gael and {Chen}, Christine H. and {Choquet}, Elodie and {Christiaens}, Valentin and {Cugno}, Gabriele and {Currie}, Thayne and {Danielski}, Camilla and {Dupuy}, Trent J. and {Faherty}, Jacqueline K. and {Fitzgerald}, Michael P. and {Fortney}, Jonathan J. and {Franson}, Kyle and {Girard}, Julien H. and {Grady}, Carol A. and {Gonzales}, Eileen C. and {Henning}, Thomas and {Hines}, Dean C. and {Hoch}, Kielan K.~W. and {Hood}, Callie E. and {Howe}, Alex R. and {Janson}, Markus and {Kalas}, Paul and {Kennedy}, Grant M. and {Kenworthy}, Matthew A. and {Kervella}, Pierre and {Kitzmann}, Daniel and {Kuzuhara}, Masayuki and {Lagrange}, Anne-Marie and {Lagage}, Pierre-Olivier and {Lawson}, Kellen and {Lazzoni}, Cecilia and {Lew}, Ben W.~P. and {Liu}, Michael C. and {Liu}, Pengyu and {Llop-Sayson}, Jorge and {Lloyd}, James P. and {Lueber}, Anna and {Macintosh}, Bruce and {Manjavacas}, Elena and {Marino}, Sebastian and {Marley}, Mark S. and {Marois}, Christian and {Martinez}, Raquel A. and {Matthews}, Brenda C. and {Matthews}, Elisabeth C. and {Mawet}, Dimitri and {Mazoyer}, Johan and {McElwain}, Michael W. and {Metchev}, Stanimir and {Miles}, Brittany E. and {Millar-Blanchaer}, Maxwell A. and {Molliere}, Paul and {Moran}, Sarah E. and {Morley}, Caroline V. and {Mukherjee}, Sagnick and {Palma-Bifani}, Paulina and {Pantin}, Eric and {Patapis}, Polychronis and {Petrus}, Simon and {Pueyo}, Laurent and {Quanz}, Sascha P. and {Quirrenbach}, Andreas and {Rebollido}, Isabel and {Redai}, Jea Adams and {Ren}, Bin B. and {Rickman}, Emily and {Samland}, Matthias and {Sargent}, B.~A. and {Schlieder}, Joshua E. and {Schneider}, Glenn and {Stapelfeldt}, Karl R. and {Sutlieff}, Ben J. and {Tamura}, Motohide and {Tan}, Xianyu and {Theissen}, Christopher A. and {Uyama}, Taichi and {Vigan}, Arthur and {Vasist}, Malavika and {Vos}, Johanna M. and {Wagner}, Kevin and {Wang}, Jason J. and {Ward-Duong}, Kimberly and {Whiteford}, Niall and {Wolff}, Schuyler G. and {Worthen}, Kadin and {Wyatt}, Mark C. and {Ygouf}, Marie and {Zhang}, Xi and {Zhang}, Keming and {Zhang}, Zhoujian and {Zhou}, Yifan and {Zurlo}, Alice},
         title = "{The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. IV. NIRISS Aperture Masking Interferometry Performance and Lessons Learned}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {James Webb Space Telescope, Interferometry, Direct imaging, High contrast techniques, Observational astronomy, 2291, 808, 387, 2369, 1145, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2024,
         month = mar,
@@ -73,14 +70,13 @@ archivePrefix = {arXiv},
        eprint = {2310.11499},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024ApJ...963L...2S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2024ApJ...963L...2S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2024AJ....167...85H,
        author = {{Hodapp}, Klaus W. and {Gaidos}, Eric and {Kenworthy}, Matthew A. and {Tucker}, Michael and {Shappee}, Benjamin J. and {Payne}, Anna V. and {Do}, Aaron},
         title = "{An Episode of Occultation Events in Gaia21bcv}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {Pre-main sequence stars, Debris disks, Occulting disks, Transits, 1290, 363, 1149, 1711, Astrophysics - Solar and Stellar Astrophysics},
          year = 2024,
         month = feb,
@@ -93,14 +89,13 @@ archivePrefix = {arXiv},
        eprint = {2312.16367},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024AJ....167...85H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2024AJ....167...85H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2024MNRAS.527.6624L,
        author = {{Liu}, Pengyu and {Biller}, Beth A. and {Vos}, Johanna M. and {Whiteford}, Niall and {Zhang}, Zhoujian and {Liu}, Michael C. and {Fontanive}, Cl{\'e}mence and {Manjavacas}, Elena and {Henning}, Thomas and {Kenworthy}, Matthew A. and {Bonavita}, Mariangela and {Bonnefoy}, Micka{\"e}l and {Bubb}, Emma and {Petrus}, Simon and {Schlieder}, Joshua},
         title = "{A near-infrared variability survey of young planetary-mass objects}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {stars: atmospheres, brown dwarfs, stars: variables: general, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2024,
         month = jan,
@@ -112,14 +107,13 @@ archivePrefix = {arXiv},
        eprint = {2311.07218},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.6624L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2024MNRAS.527.6624L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023Natur.622..251K,
        author = {{Kenworthy}, Matthew and {Lock}, Simon and {Kennedy}, Grant and {van Capelleveen}, Richelle and {Mamajek}, Eric and {Carone}, Ludmila and {Hambsch}, Franz-Josef and {Masiero}, Joseph and {Mainzer}, Amy and {Kirkpatrick}, J. Davy and {Gomez}, Edward and {Leinhardt}, Zo{\"e} and {Dou}, Jingyao and {Tanna}, Pavan and {Sainio}, Arttu and {Barker}, Hamish and {Charbonnel}, St{\'e}phane and {Garde}, Olivier and {Le D{\^u}}, Pascal and {Mulato}, Lionel and {Petit}, Thomas and {Rizzo Smith}, Michael},
         title = "{A planetary collision afterglow and transit of the resultant debris cloud}",
-      journal = {Nature},
+      journal = {\nat},
      keywords = {Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = oct,
@@ -131,7 +125,6 @@ archivePrefix = {arXiv},
        eprint = {2310.08360},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023Natur.622..251K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023Natur.622..251K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -151,7 +144,6 @@ archivePrefix = {arXiv},
        eprint = {2309.04925},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023SPIE12680E..1SD},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023SPIE12680E..1SD.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -169,14 +161,13 @@ archivePrefix = {arXiv},
        eprint = {2310.11508},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv231011508R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023arXiv231011508R.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023MNRAS.524.5477V,
        author = {{Vaughan}, Sophia R. and {Gebhard}, Timothy D. and {Bott}, Kimberly and {Casewell}, Sarah L. and {Cowan}, Nicolas B. and {Doelman}, David S. and {Kenworthy}, Matthew and {Mazoyer}, Johan and {Millar-Blanchaer}, Maxwell A. and {Trees}, Victor J.~H. and {Stam}, Daphne M. and {Absil}, Olivier and {Altinier}, Lisa and {Baudoz}, Pierre and {Belikov}, Ruslan and {Bidot}, Alexis and {Birkby}, Jayne L. and {Bonse}, Markus J. and {Brandl}, Bernhard and {Carlotti}, Alexis and {Choquet}, Elodie and {van Dam}, Dirk and {Desai}, Niyati and {Fogarty}, Kevin and {Fowler}, J. and {van Gorkom}, Kyle and {Gutierrez}, Yann and {Guyon}, Olivier and {Haffert}, Sebastiaan Y. and {Herscovici-Schiller}, Olivier and {Hours}, Adrien and {Juanola-Parramon}, Roser and {Kleisioti}, Evangelia and {K{\"o}nig}, Lorenzo and {van Kooten}, Maaike and {Krasteva}, Mariya and {Laginja}, Iva and {Landman}, Rico and {Leboulleux}, Lucie and {Mouillet}, David and {N'Diaye}, Mamadou and {Por}, Emiel H. and {Pueyo}, Laurent and {Snik}, Frans},
         title = "{Chasing rainbows and ocean glints: Inner working angle constraints for the Habitable Worlds Observatory}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {instrumentation: high angular resolution, planets and satellites: atmospheres, planets and satellites: terrestrial planets, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = oct,
@@ -188,7 +179,6 @@ archivePrefix = {arXiv},
        eprint = {2307.15137},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.5477V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023MNRAS.524.5477V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -206,14 +196,13 @@ archivePrefix = {arXiv},
        eprint = {2309.00725},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230900725F},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023arXiv230900725F.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023A&A...675A..35S,
        author = {{Skaf}, Nour and {Boccaletti}, Anthony and {Pantin}, Eric and {Thebault}, Philippe and {Kral}, Quentin and {Danielski}, Camilla and {Galicher}, Raphael and {Milli}, Julien and {Lagrange}, Anne-Marie and {Baruteau}, Cl{\'e}ment and {Kenworthy}, Matthew and {Absil}, Olivier and {Langlois}, Maud and {Olofsson}, Johan and {Chauvin}, Gael and {Huelamo}, Nuria and {Delorme}, Philippe and {Charnay}, Benjamin and {Guyon}, Olivier and {Bonnefoy}, Michael and {Cantalloube}, Faustine and {Hoeijmakers}, H. Jens and {K{\"a}ufl}, Ulli and {Kasper}, Markus and {Maire}, Anne-Lise and {M{\^a}lin}, Mathilde and {Siebenmorgen}, Ralf and {Snellen}, Ignas and {Zins}, G{\'e}rard},
         title = "{The {\ensuremath{\beta}} Pictoris system: Setting constraints on the planet and the disk structures at mid-IR wavelengths with NEAR}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planet-disk interactions, instrumentation: high angular resolution, methods: observational, instrumentation: adaptive optics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = jul,
@@ -225,14 +214,13 @@ archivePrefix = {arXiv},
        eprint = {2303.15155},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023A&A...675A..35S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023A&A...675A..35S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023A&A...675A..57K,
        author = {{Kleisioti}, E. and {Dirkx}, D. and {Rovira-Navarro}, M. and {Kenworthy}, M.~A.},
         title = "{Tidally heated exomoons around ϵ Eridani b: Observability and prospects for characterization}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: interiors, planets and satellites: detection, infrared: planetary systems, planets and satellites: individual: ϵ Eridani b, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = jul,
@@ -244,14 +232,13 @@ archivePrefix = {arXiv},
        eprint = {2305.03410},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023A&A...675A..57K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023A&A...675A..57K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023ApJ...951L..20C,
        author = {{Carter}, Aarynn L. and {Hinkley}, Sasha and {Kammerer}, Jens and {Skemer}, Andrew and {Biller}, Beth A. and {Leisenring}, Jarron M. and {Millar-Blanchaer}, Maxwell A. and {Petrus}, Simon and {Stone}, Jordan M. and {Ward-Duong}, Kimberly and {Wang}, Jason J. and {Girard}, Julien H. and {Hines}, Dean C. and {Perrin}, Marshall D. and {Pueyo}, Laurent and {Balmer}, William O. and {Bonavita}, Mariangela and {Bonnefoy}, Mickael and {Chauvin}, Gael and {Choquet}, Elodie and {Christiaens}, Valentin and {Danielski}, Camilla and {Kennedy}, Grant M. and {Matthews}, Elisabeth C. and {Miles}, Brittany E. and {Patapis}, Polychronis and {Ray}, Shrishmoy and {Rickman}, Emily and {Sallum}, Steph and {Stapelfeldt}, Karl R. and {Whiteford}, Niall and {Zhou}, Yifan and {Absil}, Olivier and {Boccaletti}, Anthony and {Booth}, Mark and {Bowler}, Brendan P. and {Chen}, Christine H. and {Currie}, Thayne and {Fortney}, Jonathan J. and {Grady}, Carol A. and {Greebaum}, Alexandra Z. and {Henning}, Thomas and {Hoch}, Kielan K.~W. and {Janson}, Markus and {Kalas}, Paul and {Kenworthy}, Matthew A. and {Kervella}, Pierre and {Kraus}, Adam L. and {Lagage}, Pierre-Olivier and {Liu}, Michael C. and {Macintosh}, Bruce and {Marino}, Sebastian and {Marley}, Mark S. and {Marois}, Christian and {Matthews}, Brenda C. and {Mawet}, Dimitri and {McElwain}, Michael W. and {Metchev}, Stanimir and {Meyer}, Michael R. and {Molliere}, Paul and {Moran}, Sarah E. and {Morley}, Caroline V. and {Mukherjee}, Sagnick and {Pantin}, Eric and {Quirrenbach}, Andreas and {Rebollido}, Isabel and {Ren}, Bin B. and {Schneider}, Glenn and {Vasist}, Malavika and {Worthen}, Kadin and {Wyatt}, Mark C. and {Briesemeister}, Zackery W. and {Bryan}, Marta L. and {Calissendorff}, Per and {Cantalloube}, Faustine and {Cugno}, Gabriele and {De Furio}, Matthew and {Dupuy}, Trent J. and {Factor}, Samuel M. and {Faherty}, Jacqueline K. and {Fitzgerald}, Michael P. and {Franson}, Kyle and {Gonzales}, Eileen C. and {Hood}, Callie E. and {Howe}, Alex R. and {Kuzuhara}, Masayuki and {Lagrange}, Anne-Marie and {Lawson}, Kellen and {Lazzoni}, Cecilia and {Lew}, Ben W.~P. and {Liu}, Pengyu and {Llop-Sayson}, Jorge and {Lloyd}, James P. and {Martinez}, Raquel A. and {Mazoyer}, Johan and {Palma-Bifani}, Paulina and {Quanz}, Sascha P. and {Redai}, Jea Adams and {Samland}, Matthias and {Schlieder}, Joshua E. and {Tamura}, Motohide and {Tan}, Xianyu and {Uyama}, Taichi and {Vigan}, Arthur and {Vos}, Johanna M. and {Wagner}, Kevin and {Wolff}, Schuyler G. and {Ygouf}, Marie and {Zhang}, Xi and {Zhang}, Keming and {Zhang}, Zhoujian},
         title = "{The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High-contrast Imaging of the Exoplanet HIP 65426 b from 2 to 16 {\ensuremath{\mu}}m}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {Exoplanets, Exoplanet astronomy, Extrasolar gaseous planets, 498, 486, 2172, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = jul,
@@ -264,14 +251,13 @@ archivePrefix = {arXiv},
        eprint = {2208.14990},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023ApJ...951L..20C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023ApJ...951L..20C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023A&A...674A.115L,
        author = {{Liu}, Pengyu and {Bohn}, Alexander J. and {Doelman}, David S. and {Sutlieff}, Ben J. and {Samland}, Matthias and {Kenworthy}, Matthew A. and {Snik}, Frans and {Birkby}, Jayne L. and {Biller}, Beth A. and {Males}, Jared R. and {Morzinski}, Katie M. and {Close}, Laird M. and {Otten}, Gilles P.~P.~L.},
         title = "{Applying a temporal systematics model to vector Apodizing Phase Plate coronagraphic data: TRAP4vAPP}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: detection, methods: data analysis, instrumentation: high angular resolution, techniques: high angular resolution, techniques: image processing, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = jun,
@@ -283,14 +269,13 @@ archivePrefix = {arXiv},
        eprint = {2304.14063},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023A&A...674A.115L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023A&A...674A.115L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023A&A...674A.207D,
        author = {{Davies}, R. and {Absil}, O. and {Agapito}, G. and {Agudo Berbel}, A. and {Baruffolo}, A. and {Biliotti}, V. and {Black}, M. and {Bonaglia}, M. and {Bonse}, M. and {Briguglio}, R. and {Campana}, P. and {Cao}, Y. and {Carbonaro}, L. and {Cortes}, A. and {Cresci}, G. and {Dallilar}, Y. and {Dannert}, F. and {De Rosa}, R.~J. and {Deysenroth}, M. and {Di Antonio}, I. and {Di Cianno}, A. and {Di Rico}, G. and {Doelman}, D. and {Dolci}, M. and {Dorn}, R. and {Eisenhauer}, F. and {Esposito}, S. and {Fantinel}, D. and {Ferruzzi}, D. and {Feuchtgruber}, H. and {Finger}, G. and {F{\"o}rster Schreiber}, N.~M. and {Gao}, X. and {Gemperlein}, H. and {Genzel}, R. and {Gillessen}, S. and {Ginski}, C. and {Glauser}, A.~M. and {Glindemann}, A. and {Grani}, P. and {Hartl}, M. and {Hayoz}, J. and {Heida}, M. and {Henry}, D. and {Hofmann}, R. and {Huber}, H. and {Kasper}, M. and {Keller}, C. and {Kenworthy}, M. and {Kravchenko}, K. and {Kuntschner}, H. and {Lacour}, S. and {Lightfoot}, J. and {Lunney}, D. and {Lutz}, D. and {Macintosh}, M. and {Mannucci}, F. and {Marsset}, M. and {Modigliani}, A. and {Neeser}, M. and {Orban de Xivry}, G. and {Ott}, T. and {Pallanca}, L. and {Patapis}, P. and {Pearson}, D. and {Pe{\~n}a}, E. and {Percheron}, I. and {Puglisi}, A. and {Quanz}, S.~P. and {Rabien}, S. and {Rau}, C. and {Riccardi}, A. and {Salasnich}, B. and {Schmid}, H. -M. and {Schubert}, J. and {Serra}, B. and {Shimizu}, T. and {Snik}, F. and {Sturm}, E. and {Tacconi}, L. and {Taylor}, W. and {Valentini}, A. and {Waring}, C. and {Wiezorrek}, E. and {Xompero}, M.},
         title = "{The Enhanced Resolution Imager and Spectrograph for the VLT}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {instrumentation: adaptive optics, instrumentation: high angular resolution, instrumentation: spectrographs, instrumentation: miscellaneous, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2023,
         month = jun,
@@ -302,14 +287,13 @@ archivePrefix = {arXiv},
        eprint = {2304.02343},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023A&A...674A.207D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023A&A...674A.207D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023AJ....165..216L,
        author = {{Long}, Joseph D. and {Males}, Jared R. and {Haffert}, Sebastiaan Y. and {Pearce}, Logan and {Marley}, Mark S. and {Morzinski}, Katie M. and {Close}, Laird M. and {Otten}, Gilles P.~P.~L. and {Snik}, Frans and {Kenworthy}, Matthew A. and {Keller}, Christoph U. and {Hinz}, Philip and {Monnier}, John D. and {Weinberger}, Alycia and {Tolls}, Volker},
         title = "{Improved Companion Mass Limits for Sirius A with Thermal Infrared Coronagraphy Using a Vector-apodizing Phase Plate and Time-domain Starlight-subtraction Techniques}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {Coronagraphic imaging, High contrast techniques, Direct imaging, Exoplanet detection methods, Exoplanet astronomy, 313, 2369, 387, 489, 486, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2023,
         month = may,
@@ -322,14 +306,13 @@ archivePrefix = {arXiv},
        eprint = {2303.05559},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023AJ....165..216L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023AJ....165..216L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023A&A...672A.145Z,
        author = {{Zhang}, Yapeng and {Ginski}, Christian and {Huang}, Jane and {Zurlo}, Alice and {Beust}, Herv{\'e} and {Bae}, Jaehan and {Benisty}, Myriam and {Garufi}, Antonio and {Hogerheijde}, Michiel R. and {van Holstein}, Rob G. and {Kenworthy}, Matthew and {Langlois}, Maud and {Manara}, Carlo F. and {Pinilla}, Paola and {Rab}, Christian and {Ribas}, {\'A}lvaro and {Rosotti}, Giovanni P. and {Williams}, Jonathan},
         title = "{Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Diverse outcomes of binary-disk interactions}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {protoplanetary disks, binaries: general, techniques: high angular resolution, techniques: polarimetric, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2023,
         month = apr,
@@ -341,14 +324,13 @@ archivePrefix = {arXiv},
        eprint = {2302.12824},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023A&A...672A.145Z},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023A&A...672A.145Z.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2023MNRAS.520.4235S,
        author = {{Sutlieff}, Ben J. and {Birkby}, Jayne L. and {Stone}, Jordan M. and {Doelman}, David S. and {Kenworthy}, Matthew A. and {Panwar}, Vatsal and {Bohn}, Alexander J. and {Ertel}, Steve and {Snik}, Frans and {Woodward}, Charles E. and {Skemer}, Andrew J. and {Leisenring}, Jarron M. and {Strassmeier}, Klaus G. and {Charbonneau}, David},
         title = "{Measuring the variability of directly imaged exoplanets using vector Apodizing Phase Plates combined with ground-based differential spectrophotometry}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {instrumentation: high angular resolution, techniques: imaging spectroscopy, planets and satellites: atmospheres, planets and satellites: detection, brown dwarfs, infrared: planetary systems, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2023,
         month = apr,
@@ -360,7 +342,6 @@ archivePrefix = {arXiv},
        eprint = {2301.08689},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4235S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2023MNRAS.520.4235S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -375,14 +356,13 @@ archivePrefix = {arXiv},
         pages = {1237-1274},
           doi = {10.1007/s10686-021-09803-y},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022ExA....54.1237S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022ExA....54.1237S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022A&A...666A..32X,
        author = {{Xie}, Chen and {Choquet}, Elodie and {Vigan}, Arthur and {Cantalloube}, Faustine and {Benisty}, Myriam and {Boccaletti}, Anthony and {Bonnefoy}, Mickael and {Desgrange}, Celia and {Garufi}, Antonio and {Girard}, Julien and {Hagelberg}, Janis and {Janson}, Markus and {Kenworthy}, Matthew and {Lagrange}, Anne-Marie and {Langlois}, Maud and {Menard}, Fran{\c{c}}ois and {Zurlo}, Alice},
         title = "{Reference-star differential imaging on SPHERE/IRDIS}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {techniques: high angular resolution, techniques: image processing, planets and satellites: detection, protoplanetary disks, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2022,
         month = oct,
@@ -394,14 +374,13 @@ archivePrefix = {arXiv},
        eprint = {2208.07915},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...666A..32X},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022A&A...666A..32X.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022MNRAS.515.5629D,
        author = {{Dubber}, Sophie and {Biller}, Beth and {Bonavita}, Mariangela and {Allers}, Katelyn and {Fontanive}, Cl{\'e}mence and {Kenworthy}, Matthew A. and {Bonnefoy}, Micka{\"e}l and {Taylor}, William},
         title = "{An optimized survey strategy for the ERIS/NIX imager: searching for young giant exoplanets and very low mass brown dwarfs using the K-peak custom photometric filter}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {techniques: high angular resolution, planets and satellites: detection, stars: low-mass, planetary systems, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = oct,
@@ -413,14 +392,13 @@ archivePrefix = {arXiv},
        eprint = {2206.14295},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.5629D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022MNRAS.515.5629D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022A&A...666A..61K,
        author = {{Kenworthy}, M.~A. and {Gonz{\'a}lez Picos}, D. and {Elizondo}, E. and {Martin}, R.~G. and {van Dam}, D.~M. and {Rodriguez}, J.~E. and {Kennedy}, G.~M. and {Ginski}, C. and {Mugrauer}, M. and {Vogt}, N. and {Adam}, C. and {Oelkers}, R.~J.},
         title = "{Eclipse of the V773 Tau B circumbinary disc}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {(stars:) binaries: general, eclipses, protoplanetary disks, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2022,
         month = oct,
@@ -432,15 +410,13 @@ archivePrefix = {arXiv},
        eprint = {2207.05575},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...666A..61K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022A&A...666A..61K.pdf},
-	  preview = {2022A&A...666A..61K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022PASP..134i5003H,
        author = {{Hinkley}, Sasha and {Carter}, Aarynn L. and {Ray}, Shrishmoy and {Skemer}, Andrew and {Biller}, Beth and {Choquet}, Elodie and {Millar-Blanchaer}, Maxwell A. and {Sallum}, Stephanie and {Miles}, Brittany and {Whiteford}, Niall and {Patapis}, Polychronis and {Perrin}, Marshall and {Pueyo}, Laurent and {Schneider}, Glenn and {Stapelfeldt}, Karl and {Wang}, Jason and {Ward-Duong}, Kimberly and {Bowler}, Brendan P. and {Boccaletti}, Anthony and {Girard}, Julien H. and {Hines}, Dean and {Kalas}, Paul and {Kammerer}, Jens and {Kervella}, Pierre and {Leisenring}, Jarron and {Pantin}, Eric and {Zhou}, Yifan and {Meyer}, Michael and {Liu}, Michael C. and {Bonnefoy}, Mickael and {Currie}, Thayne and {McElwain}, Michael and {Metchev}, Stanimir and {Wyatt}, Mark and {Absil}, Olivier and {Adams}, Jea and {Barman}, Travis and {Baraffe}, Isabelle and {Bonavita}, Mariangela and {Booth}, Mark and {Bryan}, Marta and {Chauvin}, Gael and {Chen}, Christine and {Danielski}, Camilla and {De Furio}, Matthew and {Factor}, Samuel M. and {Fitzgerald}, Michael P. and {Fortney}, Jonathan J. and {Grady}, Carol and {Greenbaum}, Alexandra and {Henning}, Thomas and {Hoch}, Kielan K.~W. and {Janson}, Markus and {Kennedy}, Grant and {Kenworthy}, Matthew and {Kraus}, Adam and {Kuzuhara}, Masayuki and {Lagage}, Pierre-Olivier and {Lagrange}, Anne-Marie and {Launhardt}, Ralf and {Lazzoni}, Cecilia and {Lloyd}, James and {Marino}, Sebastian and {Marley}, Mark and {Martinez}, Raquel and {Marois}, Christian and {Matthews}, Brenda and {Matthews}, Elisabeth C. and {Mawet}, Dimitri and {Mazoyer}, Johan and {Phillips}, Mark and {Petrus}, Simon and {Quanz}, Sascha P. and {Quirrenbach}, Andreas and {Rameau}, Julien and {Rebollido}, Isabel and {Rickman}, Emily and {Samland}, Matthias and {Sargent}, B. and {Schlieder}, Joshua E. and {Sivaramakrishnan}, Anand and {Stone}, Jordan M. and {Tamura}, Motohide and {Tremblin}, Pascal and {Uyama}, Taichi and {Vasist}, Malavika and {Vigan}, Arthur and {Wagner}, Kevin and {Ygouf}, Marie},
         title = "{The JWST Early Release Science Program for the Direct Imaging and Spectroscopy of Exoplanetary Systems}",
-      journal = {PASP},
+      journal = {\pasp},
      keywords = {Coronagraphic imaging, Direct imaging, Exoplanet detection methods, Space telescopes, Exoplanet atmospheres, 313, 387, 489, 1547, 487, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = sep,
@@ -453,7 +429,6 @@ archivePrefix = {arXiv},
        eprint = {2205.12972},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022PASP..134i5003H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022PASP..134i5003H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -474,14 +449,13 @@ archivePrefix = {arXiv},
        eprint = {2208.07354},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022SPIE12185E..3PL},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022SPIE12185E..3PL.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022A&A...664A...9S,
        author = {{Squicciarini}, V. and {Gratton}, R. and {Janson}, M. and {Mamajek}, E.~E. and {Chauvin}, G. and {Delorme}, P. and {Langlois}, M. and {Vigan}, A. and {Ringqvist}, S.~C. and {Meeus}, G. and {Reffert}, S. and {Kenworthy}, M. and {Meyer}, M.~R. and {Bonnefoy}, M. and {Bonavita}, M. and {Mesa}, D. and {Samland}, M. and {Desidera}, S. and {D'Orazi}, V. and {Engler}, N. and {Alecian}, E. and {Miglio}, A. and {Henning}, T. and {Quanz}, S.~P. and {Mayer}, L. and {Flasseur}, O. and {Marleau}, G. -D.},
         title = "{A scaled-up planetary system around a supernova progenitor}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planetary systems, stars: early-type, stars: individual: mu2 Scorpii, stars: individual: b Centauri, techniques: high angular resolutions, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = aug,
@@ -493,8 +467,6 @@ archivePrefix = {arXiv},
        eprint = {2205.02279},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...664A...9S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022A&A...664A...9S.pdf},
-	  preview = {2022A&A...664A...9S.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -515,14 +487,13 @@ archivePrefix = {arXiv},
        eprint = {2301.01580},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022SPIE12184E..5MK},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022SPIE12184E..5MK.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022AJ....163..217D,
        author = {{Doelman}, David S. and {Stone}, Jordan M. and {Briesemeister}, Zackery W. and {Skemer}, Andrew J.~I. and {Barman}, Travis and {Brock}, Laci S. and {Hinz}, Philip M. and {Bohn}, Alexander and {Kenworthy}, Matthew and {Haffert}, Sebastiaan Y. and {Snik}, Frans and {Ertel}, Steve and {Leisenring}, Jarron M. and {Woodward}, Charles E. and {Skrutskie}, Michael F.},
         title = "{L-band Integral Field Spectroscopy of the HR 8799 Planetary System}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {Exoplanet detection methods, Exoplanet evolution, Exoplanet atmospheres, 489, 491, 487, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2022,
         month = may,
@@ -535,7 +506,6 @@ archivePrefix = {arXiv},
        eprint = {2203.08165},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022AJ....163..217D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022AJ....163..217D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -554,14 +524,13 @@ archivePrefix = {arXiv},
        eprint = {2204.13618},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022NatSR..12.5855L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022NatSR..12.5855L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022ApJ...927L..26M,
        author = {{Martin}, Rebecca G. and {Lepp}, Stephen and {Lubow}, Stephen H. and {Kenworthy}, Matthew A. and {Kennedy}, Grant M. and {Vallet}, David},
         title = "{Circumbinary Disk Evolution in the Presence of an Outer Companion Star}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {Accretion, Stellar accretion disks, Circumstellar disks, Protoplanetary disks, Trinary stars, Binary stars, Hydrodynamics, Exoplanet formation, Planet formation, 14, 1579, 235, 1300, 1714, 154, 1963, 492, 1241, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = mar,
@@ -574,14 +543,13 @@ archivePrefix = {arXiv},
        eprint = {2202.06878},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..26M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022ApJ...927L..26M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022A&A...658A.183B,
        author = {{Bohn}, A.~J. and {Benisty}, M. and {Perraut}, K. and {van der Marel}, N. and {W{\"o}lfer}, L. and {van Dishoeck}, E.~F. and {Facchini}, S. and {Manara}, C.~F. and {Teague}, R. and {Francis}, L. and {Berger}, J. -P. and {Garcia-Lopez}, R. and {Ginski}, C. and {Henning}, T. and {Kenworthy}, M. and {Kraus}, S. and {M{\'e}nard}, F. and {M{\'e}rand}, A. and {P{\'e}rez}, L.~M.},
         title = "{Probing inner and outer disk misalignments in transition disks. Constraints from VLTI/GRAVITY and ALMA observations}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {protoplanetary disks, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = feb,
@@ -593,14 +561,13 @@ archivePrefix = {arXiv},
        eprint = {2112.00123},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...658A.183B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022A&A...658A.183B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022A&A...658A..38V,
        author = {{van der Kamp}, L. and {van Dam}, D.~M. and {Kenworthy}, M.~A. and {Mamajek}, E.~E. and {Pojma{\'n}ski}, G.},
         title = "{K2 discovery of a circumsecondary disk transiting EPIC 220208795}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {eclipses, planets and satellites: rings, binaries: eclipsing, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = feb,
@@ -612,15 +579,13 @@ archivePrefix = {arXiv},
        eprint = {2110.15086},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...658A..38V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022A&A...658A..38V.pdf},
-	  preview = {2022A&A...658A..38V.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2022A&A...657A..53B,
        author = {{Bohn}, Alexander J. and {Ginski}, Christian and {Kenworthy}, Matthew A. and {Mamajek}, Eric E. and {Meshkat}, Tiffany and {Pecaut}, Mark J. and {Reggiani}, Maddalena and {Seay}, Christopher R. and {Brown}, Anthony G.~A. and {Cugno}, Gabriele and {Henning}, Thomas and {Launhardt}, Ralf and {Quirrenbach}, Andreas and {Rickman}, Emily L. and {S{\'e}gransan}, Damien},
         title = "{Unveiling wide-orbit companions to K-type stars in Sco-Cen with Gaia EDR3}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {binaries: visual, brown dwarfs, astrometry, open clusters and associations: individual: Sco-Cen, stars: individual: TYC 8252-533-1, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2022,
         month = jan,
@@ -632,14 +597,13 @@ archivePrefix = {arXiv},
        eprint = {2109.09185},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2022A&A...657A..53B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2022A&A...657A..53B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021Natur.600..231J,
        author = {{Janson}, Markus and {Gratton}, Raffaele and {Rodet}, Laetitia and {Vigan}, Arthur and {Bonnefoy}, Micka{\"e}l and {Delorme}, Philippe and {Mamajek}, Eric E. and {Reffert}, Sabine and {Stock}, Lukas and {Marleau}, Gabriel-Dominique and {Langlois}, Maud and {Chauvin}, Ga{\"e}l and {Desidera}, Silvano and {Ringqvist}, Simon and {Mayer}, Lucio and {Viswanath}, Gayathri and {Squicciarini}, Vito and {Meyer}, Michael R. and {Samland}, Matthias and {Petrus}, Simon and {Helled}, Ravit and {Kenworthy}, Matthew A. and {Quanz}, Sascha P. and {Biller}, Beth and {Henning}, Thomas and {Mesa}, Dino and {Engler}, Natalia and {Carson}, Joseph C.},
         title = "{A wide-orbit giant planet in the high-mass b Centauri binary system}",
-      journal = {Nature},
+      journal = {\nat},
      keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2021,
         month = dec,
@@ -651,8 +615,6 @@ archivePrefix = {arXiv},
        eprint = {2112.04833},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021Natur.600..231J},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021Natur.600..231J.pdf},
-	  preview = {2021Natur.600..231J.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -668,14 +630,13 @@ archivePrefix = {arXiv},
         pages = {045001},
           doi = {10.1117/1.JATIS.7.4.045001},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021JATIS...7d5001B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021JATIS...7d5001B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021MNRAS.506.3224S,
        author = {{Sutlieff}, Ben J. and {Bohn}, Alexander J. and {Birkby}, Jayne L. and {Kenworthy}, Matthew A. and {Morzinski}, Katie M. and {Doelman}, David S. and {Males}, Jared R. and {Snik}, Frans and {Close}, Laird M. and {Hinz}, Philip M. and {Charbonneau}, David},
         title = "{High-contrast observations of brown dwarf companion HR 2562 B with the vector Apodizing Phase Plate coronagraph}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {instrumentation: high angular resolution, planets and satellites: atmospheres, planets and satellites: detection, brown dwarfs, stars: individual: HR 2562, infrared: planetary systems, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2021,
         month = sep,
@@ -687,15 +648,13 @@ archivePrefix = {arXiv},
        eprint = {2106.14890},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.3224S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021MNRAS.506.3224S.pdf},
-	  preview = {2021MNRAS.506.3224S.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...653A...8B,
        author = {{Bowens}, R. and {Meyer}, M.~R. and {Delacroix}, C. and {Absil}, O. and {van Boekel}, R. and {Quanz}, S.~P. and {Shinde}, M. and {Kenworthy}, M. and {Carlomagno}, B. and {Orban de Xivry}, G. and {Cantalloube}, F. and {Pathak}, P.},
         title = "{Exoplanets with ELT-METIS. I. Estimating the direct imaging exoplanet yield around stars within 6.5 parsecs}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {infrared: planetary systems, planets and satellites: detection, instrumentation: detectors, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2021,
         month = sep,
@@ -707,14 +666,13 @@ archivePrefix = {arXiv},
        eprint = {2107.06375},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...653A...8B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...653A...8B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...652A.117B,
        author = {{Barmentloo}, S. and {Dik}, C. and {Kenworthy}, M.~A. and {Mamajek}, E.~E. and {Hambsch}, F. -J. and {Reichart}, D.~E. and {Rodriguez}, J.~E. and {van Dam}, D.~M.},
         title = "{A search for transiting companions in the J1407 (V1400 Cen) system}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: rings, stars: activity, dynamo, planets and satellites: detection, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2021,
         month = aug,
@@ -726,15 +684,13 @@ archivePrefix = {arXiv},
        eprint = {2106.15902},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...652A.117B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...652A.117B.pdf},
-	  preview = {2021A&A...652A.117B.png},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...652A..33K,
        author = {{Kiefer}, S. and {Bohn}, A.~J. and {Quanz}, S.~P. and {Kenworthy}, M. and {Stolker}, T.},
         title = "{Spectral and angular differential imaging with SPHERE/IFS. Assessing the performance of various PCA-based approaches to PSF subtraction}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {instrumentation: high angular resolution, techniques: image processing, planets and satellites: detection, planets and satellites: individual: {\ensuremath{\beta}} Pictoris b, planets and satellites: individual: 51 Eridani b, planets and satellites: individual: HR 8799 e, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2021,
         month = aug,
@@ -746,14 +702,13 @@ archivePrefix = {arXiv},
        eprint = {2106.05278},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...652A..33K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...652A..33K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021ApOpt..60D..52D,
        author = {{Doelman}, D.~S. and {Snik}, F. and {Por}, E.~H. and {Bos}, S.~P. and {Otten}, G.~P.~P.~L. and {Kenworthy}, M. and {Haffert}, S.~Y. and {Wilby}, M. and {Bohn}, A.~J. and {Sutlieff}, B.~J. and {Miller}, K. and {Ouellet}, M. and {de Boer}, J. and {Keller}, C.~U. and {Escuti}, M.~J. and {Shi}, S. and {Warriner}, N.~Z. and {Hornburg}, K. and {Birkby}, J.~L. and {Males}, J. and {Morzinski}, K.~M. and {Close}, L.~M. and {Codona}, J. and {Long}, J. and {Schatz}, L. and {Lumbres}, J. and {Rodack}, A. and {Van Gorkom}, K. and {Hedglen}, A. and {Guyon}, O. and {Lozi}, J. and {Groff}, T. and {Chilcote}, J. and {Jovanovic}, N. and {Thibault}, S. and {de Jonge}, C. and {Allain}, G. and {Vall{\'e}e}, C. and {Patel}, D. and {C{\^o}t{\'e}}, O. and {Marois}, C. and {Hinz}, P. and {Stone}, J. and {Skemer}, A. and {Briesemeister}, Z. and {Boehle}, A. and {Glauser}, A.~M. and {Taylor}, W. and {Baudoz}, P. and {Huby}, E. and {Absil}, O. and {Carlomagno}, B. and {Delacroix}, C.},
         title = "{Vector-apodizing phase plate coronagraph: design, current performance, and future development [Invited]}",
-      journal = {ApOpt},
+      journal = {\ao},
      keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2021,
         month = jul,
@@ -765,7 +720,6 @@ archivePrefix = {arXiv},
        eprint = {2104.11211},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021ApOpt..60D..52D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021ApOpt..60D..52D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -784,7 +738,6 @@ archivePrefix = {arXiv},
        eprint = {2107.14341},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021JATIS...7c5004M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021JATIS...7c5004M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -798,14 +751,13 @@ archivePrefix = {arXiv},
         pages = {377-384},
           doi = {10.1142/9789811203794_0020},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021hai3.book..377K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021hai3.book..377K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021Natur.595..370Z,
        author = {{Zhang}, Yapeng and {Snellen}, Ignas A.~G. and {Bohn}, Alexander J. and {Molli{\`e}re}, Paul and {Ginski}, Christian and {Hoeijmakers}, H. Jens and {Kenworthy}, Matthew A. and {Mamajek}, Eric E. and {Meshkat}, Tiffany and {Reggiani}, Maddalena and {Snik}, Frans},
         title = "{The $^{13}$CO-rich atmosphere of a young accreting super-Jupiter}",
-      journal = {Nature},
+      journal = {\nat},
      keywords = {Astrophysics - Earth and Planetary Astrophysics},
          year = 2021,
         month = jul,
@@ -817,8 +769,6 @@ archivePrefix = {arXiv},
        eprint = {2107.06297},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021Natur.595..370Z},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021Natur.595..370Z.pdf},
-	  preview = {2021Natur.595..370Z.png},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -836,14 +786,13 @@ archivePrefix = {arXiv},
        eprint = {2103.13700},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021Msngr.183....7M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021Msngr.183....7M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...650L...6X,
        author = {{Xie}, C. and {Haffert}, S.~Y. and {de Boer}, J. and {Kenworthy}, M.~A. and {Brinchmann}, J. and {Girard}, J. and {Snellen}, I.~A.~G. and {Keller}, C.~U.},
         title = "{A MUSE view of the asymmetric jet from HD 163296}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {stars: jets, stars: variables: T Tauri, Herbig Ae/Be, stars: individual: HD 163296, ISM: jets and outflows, techniques: high angular resolution, techniques: imaging spectroscopy, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},
          year = 2021,
         month = jun,
@@ -855,14 +804,13 @@ archivePrefix = {arXiv},
        eprint = {2106.01661},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...650L...6X},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...650L...6X.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021MNRAS.503..743B,
        author = {{Biller}, Beth A. and {Apai}, D{\'a}niel and {Bonnefoy}, Micka{\"e}l and {Desidera}, Silvano and {Gratton}, Raffaele and {Kasper}, Markus and {Kenworthy}, Matthew and {Lagrange}, Anne-Marie and {Lazzoni}, Cecilia and {Mesa}, Dino and {Vigan}, Arthur and {Wagner}, Kevin and {Vos}, Johanna M. and {Zurlo}, Alice},
         title = "{A high-contrast search for variability in HR 8799bc with VLT-SPHERE}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {planets and satellites: gaseous planets, infrared: planetary systems, (stars:) brown dwarfs, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2021,
         month = may,
@@ -874,14 +822,13 @@ archivePrefix = {arXiv},
        eprint = {2101.08514},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.503..743B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021MNRAS.503..743B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...648A..15K,
        author = {{Kenworthy}, M.~A. and {Mellon}, S.~N. and {Bailey}, J.~I. and {Stuik}, R. and {Dorval}, P. and {Talens}, G.~J.~J. and {Crawford}, S.~R. and {Mamajek}, E.~E. and {Laginja}, I. and {Ireland}, M. and {Lomberg}, B. and {Kuhn}, R.~B. and {Snellen}, I. and {Zwintz}, K. and {Kuschnig}, R. and {Kennedy}, G.~M. and {Abe}, L. and {Agabi}, A. and {Mekarnia}, D. and {Guillot}, T. and {Schmider}, F. and {Stee}, P. and {de Pra}, Y. and {Buttu}, M. and {Crouzet}, N. and {Kalas}, P. and {Wang}, J.~J. and {Stevenson}, K. and {de Mooij}, E. and {Lagrange}, A. -M. and {Lacour}, S. and {Lecavelier des Etangs}, A. and {Nowak}, M. and {Str{\o}m}, P.~A. and {Hui}, Z. and {Wang}, L.},
         title = "{The {\ensuremath{\beta}} Pictoris b Hill sphere transit campaign. I. Photometric limits to dust and rings}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: rings, planets and satellites: formation, stars: individual: {\ensuremath{\beta}} Pictoris, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2021,
         month = apr,
@@ -893,15 +840,13 @@ archivePrefix = {arXiv},
        eprint = {2102.05672},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...648A..15K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...648A..15K.pdf},
-	  preview = {2021A&A...648A..15K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...648A..73B,
        author = {{Bohn}, Alexander J. and {Ginski}, Christian and {Kenworthy}, Matthew A. and {Mamajek}, Eric E. and {Pecaut}, Mark J. and {Mugrauer}, Markus and {Vogt}, Nikolaus and {Adam}, Christian and {Meshkat}, Tiffany and {Reggiani}, Maddalena and {Snik}, Frans},
         title = "{Discovery of a directly imaged planet to the young solar analog YSES 2}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: detection, planets and satellites: formation, instrumentation: high angular resolution, techniques: image processing, stars: individual: TYC 8984-2245-1, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2021,
         month = apr,
@@ -913,15 +858,13 @@ archivePrefix = {arXiv},
        eprint = {2104.08285},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...648A..73B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...648A..73B.pdf},
-	  preview = {2021A&A...648A..73B.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2021A&A...646A.164J,
        author = {{Janson}, Markus and {Squicciarini}, Vito and {Delorme}, Philippe and {Gratton}, Raffaele and {Bonnefoy}, Micka{\"e}l and {Reffert}, Sabine and {Mamajek}, Eric E. and {Eriksson}, Simon C. and {Vigan}, Arthur and {Langlois}, Maud and {Engler}, Natalia and {Chauvin}, Ga{\"e}l and {Desidera}, Silvano and {Mayer}, Lucio and {Marleau}, Gabriel-Dominique and {Bohn}, Alexander J. and {Samland}, Matthias and {Meyer}, Michael and {d'Orazi}, Valentina and {Henning}, Thomas and {Quanz}, Sascha and {Kenworthy}, Matthew and {Carson}, Joseph C.},
         title = "{BEAST begins: sample characteristics and survey performance of the B-star Exoplanet Abundance Study}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: detection, stars: early-type, brown dwarfs, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2021,
         month = feb,
@@ -933,7 +876,6 @@ archivePrefix = {arXiv},
        eprint = {2101.02043},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021A&A...646A.164J},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021A&A...646A.164J.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -951,14 +893,13 @@ archivePrefix = {arXiv},
        eprint = {2101.05080},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021arXiv210105080C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2021arXiv210105080C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020MNRAS.499.2817V,
        author = {{van Kooten}, M.~A.~M. and {Kenworthy}, M. and {Doelman}, N.},
         title = "{Periodic brightening of Kepler light curves: investigating the possibility of forward scattering due to dust clouds}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {surveys, planets and satellites: detection, binaries: eclipsing},
          year = 2020,
         month = dec,
@@ -967,15 +908,13 @@ archivePrefix = {arXiv},
         pages = {2817-2825},
           doi = {10.1093/mnras/staa3048},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.2817V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020MNRAS.499.2817V.pdf},
-	  preview = {2020MNRAS.499.2817V.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...644A.149X,
        author = {{Xie}, C. and {Haffert}, S.~Y. and {de Boer}, J. and {Kenworthy}, M.~A. and {Brinchmann}, J. and {Girard}, J. and {Snellen}, I.~A.~G. and {Keller}, C.~U.},
         title = "{Searching for proto-planets with MUSE}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {techniques: high angular resolution, techniques: imaging spectroscopy, techniques: image processing, planet-disk interactions, planets and satellites: detection, ISM: jets and outflows, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
         month = dec,
@@ -987,14 +926,13 @@ archivePrefix = {arXiv},
        eprint = {2011.08043},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...644A.149X},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...644A.149X.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020AJ....160..285V,
        author = {{van Dam}, Dirk M. and {Kenworthy}, Matthew A. and {David}, Trevor J. and {Mamajek}, Eric E. and {Hillenbrand}, Lynne A. and {Cody}, Ann Marie and {Howard}, Andrew W. and {Isaacson}, Howard and {Ciardi}, David R. and {Rebull}, Luisa M. and {Stauffer}, John R. and {Patel}, Rahul and {Cameron + WASP Collaborators}, Andrew Collier and {Rodriguez}, Joseph E. and {Pojma{\'n}ski}, Grzegorz and {Gonzales}, Erica J. and {Schlieder}, Joshua E. and {Hambsch}, Franz-Josef and {Dufoer}, Sjoerd and {Vanmunster}, Tonny and {Dubois}, Franky and {Vanaverbeke}, Siegfried and {Logie}, Ludwig and {Rau}, Steve},
         title = "{An Asymmetric Eclipse Seen toward the Pre-main-sequence Binary System V928 Tau}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {Planetary rings, Pre-main sequence stars, Astrometric binary stars, Eclipses, Substellar companion stars, 1254, 1290, 79, 442, 1648, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2020,
         month = dec,
@@ -1007,8 +945,6 @@ archivePrefix = {arXiv},
        eprint = {2010.11199},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020AJ....160..285V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020AJ....160..285V.pdf},
-	  preview = {2020AJ....160..285V.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1025,14 +961,13 @@ archivePrefix = {arXiv},
         pages = {114485A},
           doi = {10.1117/12.2574803},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020SPIE11448E..5AC},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020SPIE11448E..5AC.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...642A..18L,
        author = {{Lagrange}, A.~M. and {Rubini}, P. and {Nowak}, M. and {Lacour}, S. and {Grandjean}, A. and {Boccaletti}, A. and {Langlois}, M. and {Delorme}, P. and {Gratton}, R. and {Wang}, J. and {Flasseur}, O. and {Galicher}, R. and {Kral}, Q. and {Meunier}, N. and {Beust}, H. and {Babusiaux}, C. and {Le Coroller}, H. and {Thebault}, P. and {Kervella}, P. and {Zurlo}, A. and {Maire}, A. -L. and {Wahhaj}, Z. and {Amorim}, A. and {Asensio-Torres}, R. and {Benisty}, M. and {Berger}, J.~P. and {Bonnefoy}, M. and {Brandner}, W. and {Cantalloube}, F. and {Charnay}, B. and {Chauvin}, G. and {Choquet}, E. and {Cl{\'e}net}, Y. and {Christiaens}, V. and {Coud{\'e} Du Foresto}, V. and {de Zeeuw}, P.~T. and {Desidera}, S. and {Duvert}, G. and {Eckart}, A. and {Eisenhauer}, F. and {Galland}, F. and {Gao}, F. and {Garcia}, P. and {Garcia Lopez}, R. and {Gendron}, E. and {Genzel}, R. and {Gillessen}, S. and {Girard}, J. and {Hagelberg}, J. and {Haubois}, X. and {Henning}, T. and {Heissel}, G. and {Hippler}, S. and {Horrobin}, M. and {Janson}, M. and {Kammerer}, J. and {Kenworthy}, M. and {Keppler}, M. and {Kreidberg}, L. and {Lapeyr{\`e}re}, V. and {Le Bouquin}, J. -B. and {L{\'e}na}, P. and {M{\'e}rand}, A. and {Messina}, S. and {Molli{\`e}re}, P. and {Monnier}, J.~D. and {Ott}, T. and {Otten}, G. and {Paumard}, T. and {Paladini}, C. and {Perraut}, K. and {Perrin}, G. and {Pueyo}, L. and {Pfuhl}, O. and {Rodet}, L. and {Rodriguez-Coira}, G. and {Rousset}, G. and {Samland}, M. and {Shangguan}, J. and {Schmidt}, T. and {Straub}, O. and {Straubmeier}, C. and {Stolker}, T. and {Vigan}, A. and {Vincent}, F. and {Widmann}, F. and {Woillez}, J. and {GRAVITY Collaboration}},
         title = "{Unveiling the {\ensuremath{\beta}} Pictoris system, coupling high contrast imaging, interferometric, and radial velocity data}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {techniques: high angular resolution, techniques: radial velocities, planets and satellites: detection, planets and satellites: fundamental parameters},
          year = 2020,
         month = oct,
@@ -1041,14 +976,13 @@ archivePrefix = {arXiv},
         pages = {A18},
           doi = {10.1051/0004-6361/202038823},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...642A..18L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...642A..18L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...642A.119G,
        author = {{Ginski}, C. and {M{\'e}nard}, F. and {Rab}, Ch. and {Mamajek}, E.~E. and {van Holstein}, R.~G. and {Benisty}, M. and {Manara}, C.~F. and {Asensio Torres}, R. and {Bohn}, A. and {Birnstiel}, T. and {Delorme}, P. and {Facchini}, S. and {Garufi}, A. and {Gratton}, R. and {Hogerheijde}, M. and {Huang}, J. and {Kenworthy}, M. and {Langlois}, M. and {Pinilla}, P. and {Pinte}, C. and {Ribas}, {\'A}. and {Rosotti}, G. and {Schmidt}, T.~O.~B. and {van den Ancker}, M. and {Wahhaj}, Z. and {Waters}, L.~B.~F.~M. and {Williams}, J. and {Zurlo}, A.},
         title = "{Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): A close low-mass companion to ET Cha}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {binaries: close, protoplanetary disks, brown dwarfs, stars: individual: ETCha, techniques: high angular resolution, techniques: polarimetric, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Astrophysics of Galaxies},
          year = 2020,
         month = oct,
@@ -1060,7 +994,6 @@ archivePrefix = {arXiv},
        eprint = {2007.05274},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...642A.119G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...642A.119G.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1075,14 +1008,13 @@ archivePrefix = {arXiv},
         pages = {049801},
           doi = {10.1117/1.JATIS.6.4.049801},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020JATIS...6d9801C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020JATIS...6d9801C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020MNRAS.496L..75K,
        author = {{Kennedy}, Grant M. and {Ginski}, Christian and {Kenworthy}, Matthew A. and {Benisty}, Myriam and {Henning}, Thomas and {van Holstein}, Rob G. and {Kral}, Quentin and {M{\'e}nard}, Fran{\c{c}}ois and {Milli}, Julien and {Quiroga-Nu{\~n}ez}, Luis Henry and {Rab}, Christian and {Stolker}, Tomas and {Sturm}, Ardjan},
         title = "{A low-mass stellar companion to the young variable star RZ Psc}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {instrumentation: high angular resolution, binaries: general, circumstellar matter, stars: individual: RZ Psc, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2020,
         month = jul,
@@ -1094,8 +1026,6 @@ archivePrefix = {arXiv},
        eprint = {2005.14203},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.496L..75K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020MNRAS.496L..75K.pdf},
-	  preview = {2020MNRAS.496L..75K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1110,14 +1040,13 @@ archivePrefix = {arXiv},
         pages = {035005},
           doi = {10.1117/1.JATIS.6.3.035005},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020JATIS...6c5005C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020JATIS...6c5005C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020ApJ...898L..16B,
        author = {{Bohn}, Alexander J. and {Kenworthy}, Matthew A. and {Ginski}, Christian and {Rieder}, Steven and {Mamajek}, Eric E. and {Meshkat}, Tiffany and {Pecaut}, Mark J. and {Reggiani}, Maddalena and {de Boer}, Jozua and {Keller}, Christoph U. and {Snik}, Frans and {Southworth}, John},
         title = "{Two Directly Imaged, Wide-orbit Giant Planets around the Young, Solar Analog TYC 8998-760-1}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {Extrasolar gas giants, Exoplanet astronomy, Exoplanet detection methods, Exoplanets, Direct imaging, 509, 486, 489, 498, 387, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
         month = jul,
@@ -1130,15 +1059,13 @@ archivePrefix = {arXiv},
        eprint = {2007.10991},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020ApJ...898L..16B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020ApJ...898L..16B.pdf},
-	  preview = {2020ApJ...898L..16B.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020AJ....159..252W,
        author = {{Wagner}, Kevin and {Stone}, Jordan and {Dong}, Ruobing and {Ertel}, Steve and {Apai}, Daniel and {Doelman}, David and {Bohn}, Alexander and {Najita}, Joan and {Brittain}, Sean and {Kenworthy}, Matthew and {Keppler}, Miriam and {Webster}, Ryan and {Mailhot}, Emily and {Snik}, Frans},
         title = "{First Images of the Protoplanetary Disk around PDS 201}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {Protoplanetary disks, Exoplanets, Variable stars, Early-type variable stars, 1300, 498, 1761, 432, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2020,
         month = jun,
@@ -1151,14 +1078,13 @@ archivePrefix = {arXiv},
        eprint = {2004.06157},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020AJ....159..252W},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020AJ....159..252W.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020Natur.582..497P,
        author = {{Plavchan}, Peter and {Barclay}, Thomas and {Gagn{\'e}}, Jonathan and {Gao}, Peter and {Cale}, Bryson and {Matzko}, William and {Dragomir}, Diana and {Quinn}, Sam and {Feliz}, Dax and {Stassun}, Keivan and {Crossfield}, Ian J.~M. and {Berardo}, David A. and {Latham}, David W. and {Tieu}, Ben and {Anglada-Escud{\'e}}, Guillem and {Ricker}, George and {Vanderspek}, Roland and {Seager}, Sara and {Winn}, Joshua N. and {Jenkins}, Jon M. and {Rinehart}, Stephen and {Krishnamurthy}, Akshata and {Dynes}, Scott and {Doty}, John and {Adams}, Fred and {Afanasev}, Dennis A. and {Beichman}, Chas and {Bottom}, Mike and {Bowler}, Brendan P. and {Brinkworth}, Carolyn and {Brown}, Carolyn J. and {Cancino}, Andrew and {Ciardi}, David R. and {Clampin}, Mark and {Clark}, Jake T. and {Collins}, Karen and {Davison}, Cassy and {Foreman-Mackey}, Daniel and {Furlan}, Elise and {Gaidos}, Eric J. and {Geneser}, Claire and {Giddens}, Frank and {Gilbert}, Emily and {Hall}, Ryan and {Hellier}, Coel and {Henry}, Todd and {Horner}, Jonathan and {Howard}, Andrew W. and {Huang}, Chelsea and {Huber}, Joseph and {Kane}, Stephen R. and {Kenworthy}, Matthew and {Kielkopf}, John and {Kipping}, David and {Klenke}, Chris and {Kruse}, Ethan and {Latouf}, Natasha and {Lowrance}, Patrick and {Mennesson}, Bertrand and {Mengel}, Matthew and {Mills}, Sean M. and {Morton}, Tim and {Narita}, Norio and {Newton}, Elisabeth and {Nishimoto}, America and {Okumura}, Jack and {Palle}, Enric and {Pepper}, Joshua and {Quintana}, Elisa V. and {Roberge}, Aki and {Roccatagliata}, Veronica and {Schlieder}, Joshua E. and {Tanner}, Angelle and {Teske}, Johanna and {Tinney}, C.~G. and {Vanderburg}, Andrew and {von Braun}, Kaspar and {Walp}, Bernie and {Wang}, Jason and {Wang}, Sharon Xuesong and {Weigand}, Denise and {White}, Russel and {Wittenmyer}, Robert A. and {Wright}, Duncan J. and {Youngblood}, Allison and {Zhang}, Hui and {Zilberman}, Perri},
         title = "{A planet within the debris disk around the pre-main-sequence star AU Microscopii}",
-      journal = {Nature},
+      journal = {\nat},
      keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
         month = jun,
@@ -1170,14 +1096,13 @@ archivePrefix = {arXiv},
        eprint = {2006.13248},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020Natur.582..497P.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...636A..81V,
        author = {{van Kooten}, M.~A.~M. and {Doelman}, N. and {Kenworthy}, M.},
         title = "{Robustness of prediction for extreme adaptive optics systems under various observing conditions. An analysis using VLT/SPHERE adaptive optics data}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {instrumentation: adaptive optics, methods: numerical, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2020,
         month = apr,
@@ -1189,14 +1114,13 @@ archivePrefix = {arXiv},
        eprint = {2003.10225},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...636A..81V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...636A..81V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...635A..56H,
        author = {{Haffert}, S.~Y. and {Por}, E.~H. and {Keller}, C.~U. and {Kenworthy}, M.~A. and {Doelman}, D.~S. and {Snik}, F. and {Escuti}, M.~J.},
         title = "{The Single-mode Complex Amplitude Refinement (SCAR) coronagraph. II. Lab verification, and toward the characterization of Proxima b}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {instrumentation: high angular resolution, instrumentation: spectrographs, techniques: high angular resolution, techniques: imaging spectroscopy},
          year = 2020,
         month = mar,
@@ -1205,14 +1129,13 @@ archivePrefix = {arXiv},
         pages = {A56},
           doi = {10.1051/0004-6361/201731615},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...635A..56H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...635A..56H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...635A..74S,
        author = {{Southworth}, J. and {Bohn}, A.~J. and {Kenworthy}, M.~A. and {Ginski}, C. and {Mancini}, L.},
         title = "{A multiplicity study of transiting exoplanet host stars. II. Revised properties of transiting planetary systems with companions}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planetary systems, stars: fundamental parameters, techniques: high angular resolution, binaries: visual, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
         month = mar,
@@ -1224,14 +1147,13 @@ archivePrefix = {arXiv},
        eprint = {2001.08225},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...635A..74S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...635A..74S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...635A..60D,
        author = {{Dorval}, P. and {Talens}, G.~J.~J. and {Otten}, G.~P.~P.~L. and {Brahm}, R. and {Jord{\'a}n}, A. and {Torres}, P. and {Vanzi}, L. and {Zapata}, A. and {Henry}, T. and {Paredes}, L. and {Jao}, W.~C. and {James}, H. and {Hinojosa}, R. and {Bakos}, G.~A. and {Csubry}, Z. and {Bhatti}, W. and {Suc}, V. and {Osip}, D. and {Mamajek}, E.~E. and {Mellon}, S.~N. and {Wyttenbach}, A. and {Stuik}, R. and {Kenworthy}, M. and {Bailey}, J. and {Ireland}, M. and {Crawford}, S. and {Lomberg}, B. and {Kuhn}, R. and {Snellen}, I.},
         title = "{MASCARA-4 b/bRing-1 b: A retrograde hot Jupiter around a bright A-type star}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planetary systems, stars: individual: HD 85628, stars: individual: MASCARA-4b, stars: individual: bRing-1b, Astrophysics - Earth and Planetary Astrophysics},
          year = 2020,
         month = mar,
@@ -1243,14 +1165,13 @@ archivePrefix = {arXiv},
        eprint = {1904.02733},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...635A..60D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...635A..60D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...635A..73B,
        author = {{Bohn}, A.~J. and {Southworth}, J. and {Ginski}, C. and {Kenworthy}, M.~A. and {Maxted}, P.~F.~L. and {Evans}, D.~F.},
         title = "{A multiplicity study of transiting exoplanet host stars. I. High-contrast imaging with VLT/SPHERE}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: dynamical evolution and stability, planets and satellites: formation, planetary systems, binaries: visual, techniques: high angular resolution, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
         month = mar,
@@ -1262,19 +1183,15 @@ archivePrefix = {arXiv},
        eprint = {2001.08224},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...635A..73B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...635A..73B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020MNRAS.492..431B,
        author = {{Bohn}, A.~J. and {Kenworthy}, M.~A. and {Ginski}, C. and {Manara}, C.~F. and {Pecaut}, M.~J. and {de Boer}, J. and {Keller}, C.~U. and {Mamajek}, E.~E. and {Meshkat}, T. and {Reggiani}, M. and {Todorov}, K.~O. and {Snik}, F.},
         title = "{The Young Suns Exoplanet Survey: Detection of a wide-orbit planetary-mass companion to a solar-type Sco-Cen member}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {astrometry, planets and satellites: detection, planets and satellites: formation, stars: individual: TYC 8998-760-1, stars: pre-main-sequence, stars: solar-type, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
-        preview = {2020MNRAS.492..431B.jpg},
-        additional_info = {. The solar mass star TYC 8998 and its planetary mass companion TYC 8998b, indicated by a white arrow},
-        pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020MNRAS.492..431B.pdf},
         month = feb,
        volume = {492},
        number = {1},
@@ -1284,15 +1201,13 @@ archivePrefix = {arXiv},
        eprint = {1912.04284},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.492..431B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020MNRAS.492..431B.pdf},
-	  preview = {2020MNRAS.492..431B.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2020A&A...633A.115K,
        author = {{Kenworthy}, M.~A. and {Klaassen}, P.~D. and {Min}, M. and {van der Marel}, N. and {Bohn}, A.~J. and {Kama}, M. and {Triaud}, A. and {Hales}, A. and {Monkiewicz}, J. and {Scott}, E. and {Mamajek}, E.~E.},
         title = "{ALMA and NACO observations towards the young exoring transit system J1407 (V1400 Cen)}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {stars: pre-main sequence, submillimeter: planetary systems, planets and satellites: formation, protoplanetary disks, planet-disk interactions, planets and satellites: gaseous planets, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Astrophysics of Galaxies, Astrophysics - Solar and Stellar Astrophysics},
          year = 2020,
         month = jan,
@@ -1304,8 +1219,6 @@ archivePrefix = {arXiv},
        eprint = {1912.03314},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020A&A...633A.115K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2020A&A...633A.115K.pdf},
-	  preview = {2020A&A...633A.115K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1323,14 +1236,13 @@ archivePrefix = {arXiv},
        eprint = {1911.11241},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv191111241C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019arXiv191111241C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019ApJS..244...15M,
        author = {{Mellon}, Samuel N. and {Mamajek}, Eric E. and {Stuik}, Remko and {Zwintz}, Konstanze and {Kenworthy}, Matthew A. and {Talens}, Geert Jan J. and {Burggraaff}, Olivier and {Bailey}, John I., III and {Dorval}, Patrick and {Lomberg}, Blaine B.~D. and {Kuhn}, Rudi B. and {Ireland}, Michael J.},
         title = "{Bright Southern Variable Stars in the bRing Survey}",
-      journal = {ApJS},
+      journal = {\apjs},
      keywords = {Variable stars, Multi-periodic variable stars, Long period variable stars, Short period variable stars, Eclipsing binary stars, Ellipsoidal variable stars, 1761, 1079, 935, 1453, 444, 455, Astrophysics - Solar and Stellar Astrophysics},
          year = 2019,
         month = sep,
@@ -1343,14 +1255,13 @@ archivePrefix = {arXiv},
        eprint = {1907.11927},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJS..244...15M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019ApJS..244...15M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019A&A...627A..28Z,
        author = {{Zwintz}, K. and {Reese}, D.~R. and {Neiner}, C. and {Pigulski}, A. and {Kuschnig}, R. and {M{\"u}llner}, M. and {Zieba}, S. and {Abe}, L. and {Guillot}, T. and {Handler}, G. and {Kenworthy}, M. and {Stuik}, R. and {Moffat}, A.~F.~J. and {Popowicz}, A. and {Rucinski}, S.~M. and {Wade}, G.~A. and {Weiss}, W.~W. and {Bailey}, J.~I. and {Crawford}, S. and {Ireland}, M. and {Lomberg}, B. and {Mamajek}, E.~E. and {Mellon}, S.~N. and {Talens}, G.~J.},
         title = "{Revisiting the pulsational characteristics of the exoplanet host star {\ensuremath{\beta}} Pictoris}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {asteroseismology, stars: individual: {\ensuremath{\beta}} Pictoris, stars: interiors, stars: variables: {\ensuremath{\delta}} Scuti, stars: magnetic field, Astrophysics - Solar and Stellar Astrophysics},
          year = 2019,
         month = jul,
@@ -1362,14 +1273,13 @@ archivePrefix = {arXiv},
        eprint = {1905.12545},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019A&A...627A..28Z},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019A&A...627A..28Z.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019A&A...626A..97V,
        author = {{van Sluijs}, Lennart and {de Mooij}, Ernst and {Kenworthy}, Matthew and {Celeste}, Maggie and {Hooton}, Matthew J. and {Mamajek}, Eric E. and {Sip{\H{o}}cz}, Brigitta and {Snellen}, Ignas. A.~G. and {Ridden-Harper}, Andrew R. and {Wilson}, Paul A.},
         title = "{Spectroscopic transit search: a self-calibrating method for detecting planets around bright stars}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {methods: observational, techniques: spectroscopic, stars: individual: {\ensuremath{\beta}} Pictoris, stars: variables: {\ensuremath{\delta}} Scuti, planets and satellites: detection, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2019,
         month = jun,
@@ -1381,15 +1291,13 @@ archivePrefix = {arXiv},
        eprint = {1903.08186},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019A&A...626A..97V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019A&A...626A..97V.pdf},
-	  preview = {2019A&A...626A..97V.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019BAAS...51c..69G,
        author = {{Gaspar}, Andras and {Apai}, D{\'a}niel and {Augereau}, Jean-Charles and {Ballering}, Nicholas P. and {Beichman}, Charles A. and {Boccaletti}, Anthony and {Booth}, Mark and {Bowler}, Brendan P. and {Bryden}, Geoffrey and {Chen}, Christine H. and {Currie}, Thayne and {Danchi}, William C. and {Debes}, John and {Defr{\`e}re}, Denis and {Ertel}, Steve and {Jackson}, Alan P. and {Kalas}, Paul G. and {Kennedy}, Grant M. and {Kenworthy}, Matthew A. and {Kim}, Jinyoung Serena and {Kirchschlager}, Florian and {Kral}, Quentin and {Krijt}, Sebastiaan and {Krivov}, Alexander V. and {Kuchner}, Marc J. and {Leisenring}, Jarron M. and {L{\"o}hne}, Torsten and {Lyra}, Wladimir and {MacGregor}, Meredith A. and {Matr{\`a}}, Luca and {Mawet}, Dimitri and {Mennesson}, Bertrand and {Meshkat}, Tiffany and {Moro-Mart{\'\i}n}, Amaya and {Nesvold}, Erika R. and {Rieke}, George H. and {Roberge}, Aki and {Schneider}, Glenn and {Shannon}, Andrew and {Stark}, Christopher C. and {Su}, Kate Y.~L. and {Th{\'e}bault}, Philippe and {Wilner}, David J. and {Wyatt}, Mark C. and {Ygouf}, Marie and {Youdin}, Andrew N.},
         title = "{Modeling Debris Disk Evolution}",
-      journal = {BAAS},
+      journal = {\baas},
          year = 2019,
         month = may,
        volume = {51},
@@ -1397,7 +1305,6 @@ archivePrefix = {arXiv},
           eid = {69},
         pages = {69},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019BAAS...51c..69G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019BAAS...51c..69G.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1416,14 +1323,13 @@ archivePrefix = {arXiv},
        eprint = {1903.06541},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019JOSAA..36..731V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019JOSAA..36..731V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019A&A...625L..13Z,
        author = {{Zieba}, S. and {Zwintz}, K. and {Kenworthy}, M.~A. and {Kennedy}, G.~M.},
         title = "{Transiting exocomets detected in broadband light by TESS in the {\ensuremath{\beta}} Pictoris system}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {comets: general, planetary systems, stars: individual: {\ensuremath{\beta}} Pictoris, techniques: photometric, circumstellar matter, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2019,
         month = may,
@@ -1435,15 +1341,13 @@ archivePrefix = {arXiv},
        eprint = {1903.11071},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019A&A...625L..13Z},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019A&A...625L..13Z.pdf},
-	  preview = {2019A&A...625L..13Z.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019MNRAS.485.1614O,
        author = {{Osborn}, H.~P. and {Kenworthy}, M. and {Rodriguez}, J.~E. and {de Mooij}, E.~J.~W. and {Kennedy}, G.~M. and {Relles}, H. and {Gomez}, E. and {Hippke}, M. and {Banfi}, M. and {Barbieri}, L. and {Becker}, I.~S. and {Benni}, P. and {Berlind}, P. and {Bieryla}, A. and {Bonnoli}, G. and {Boussier}, H. and {Brincat}, S.~M. and {Briol}, J. and {Burleigh}, M.~R. and {Butterley}, T. and {Calkins}, M.~L. and {Chote}, P. and {Ciceri}, S. and {Deldem}, M. and {Dhillon}, V.~S. and {Dose}, E. and {Dubois}, F. and {Dvorak}, S. and {Esquerdo}, G.~A. and {Evans}, D.~F. and {Ferratfiat}, S. and {Fossey}, S.~J. and {G{\"u}nther}, M.~N. and {Hall}, J. and {Hambsch}, F. -J. and {Herrero}, E. and {Hills}, K. and {James}, R. and {Jayawardhana}, R. and {Kafka}, S. and {Killestein}, T.~L. and {Kotnik}, C. and {Latham}, D.~W. and {Lemay}, D. and {Lewin}, P. and {Littlefair}, S. and {Lopresti}, C. and {Mallonn}, M. and {Mancini}, L. and {Marchini}, A. and {McCormac}, J.~J. and {Murawski}, G. and {Myers}, G. and {Papini}, R. and {Popov}, V. and {Quadri}, U. and {Quinn}, S.~N. and {Raynard}, L. and {Rizzuti}, L. and {Robertson}, J. and {Salvaggio}, F. and {Scholz}, A. and {Sfair}, R. and {Smith}, A.~M.~S. and {Southworth}, J. and {Tan}, T.~G. and {Vanaverbeke}, S. and {Waagen}, E.~O. and {Watson}, C.~A. and {West}, R.~G. and {Winter}, O.~C. and {Wheatley}, P.~J. and {Wilson}, R.~W. and {Zhou}, G.},
         title = "{The PDS 110 observing campaign - photometric and spectroscopic observations reveal eclipses are aperiodic}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {protoplanetary discs, stars: individual:PDS 110, stars: variables: T Tauri, Herbig Ae/Be, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2019,
         month = may,
@@ -1455,14 +1359,13 @@ archivePrefix = {arXiv},
        eprint = {1901.07981},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.1614O},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019MNRAS.485.1614O.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019A&A...624A..87B,
        author = {{Bohn}, A.~J. and {Kenworthy}, M.~A. and {Ginski}, C. and {Benisty}, M. and {de Boer}, J. and {Keller}, C.~U. and {Mamajek}, E.~E. and {Meshkat}, T. and {Muro-Arena}, G.~A. and {Pecaut}, M.~J. and {Snik}, F. and {Wolff}, S.~G. and {Reggiani}, M.},
         title = "{Discovery of a directly imaged disk in scattered light around the Sco-Cen member Wray 15-788}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {protoplanetary disks, planets and satellites: formation, planet-disk interactions, techniques: image processing, stars: individual: Wray 15-788, stars: individual: HD 98363, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2019,
         month = apr,
@@ -1474,15 +1377,13 @@ archivePrefix = {arXiv},
        eprint = {1902.07723},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019A&A...624A..87B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019A&A...624A..87B.pdf},
-	  preview = {2019A&A...624A..87B.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019MNRAS.483.3579A,
        author = {{Ansdell}, M. and {Gaidos}, E. and {Jacobs}, T.~L. and {Mann}, A. and {Manara}, C.~F. and {Kennedy}, G.~M. and {Vanderburg}, A. and {Kenworthy}, M. and {Hirano}, T. and {LaCourse}, D.~M. and {Hedges}, C. and {Frasca}, A.},
         title = "{The little dippers: transits of star-grazing exocomets?}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {comets: general, minor planets, asteroids: general, stars: individual: (EPIC 205718330 and EPIC 235240266), planetary systems, stars: variables: general, Astrophysics - Earth and Planetary Astrophysics},
          year = 2019,
         month = mar,
@@ -1494,14 +1395,13 @@ archivePrefix = {arXiv},
        eprint = {1811.12414},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.483.3579A},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019MNRAS.483.3579A.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019A&A...621L...8L,
        author = {{Lagrange}, A. -M. and {Boccaletti}, A. and {Langlois}, M. and {Chauvin}, G. and {Gratton}, R. and {Beust}, H. and {Desidera}, S. and {Milli}, J. and {Bonnefoy}, M. and {Cheetham}, A. and {Feldt}, M. and {Meyer}, M. and {Vigan}, A. and {Biller}, B. and {Bonavita}, M. and {Baudino}, J. -L. and {Cantalloube}, F. and {Cudel}, M. and {Daemgen}, S. and {Delorme}, P. and {D'Orazi}, V. and {Girard}, J. and {Fontanive}, C. and {Hagelberg}, J. and {Janson}, M. and {Keppler}, M. and {Koypitova}, T. and {Galicher}, R. and {Lannier}, J. and {Le Coroller}, H. and {Ligi}, R. and {Maire}, A. -L. and {Mesa}, D. and {Messina}, S. and {M{\"u}eller}, A. and {Peretti}, S. and {Perrot}, C. and {Rouan}, D. and {Salter}, G. and {Samland}, M. and {Schmidt}, T. and {Sissa}, E. and {Zurlo}, A. and {Beuzit}, J. -L. and {Mouillet}, D. and {Dominik}, C. and {Henning}, T. and {Lagadec}, E. and {M{\'e}nard}, F. and {Schmid}, H. -M. and {Turatto}, M. and {Udry}, S. and {Bohn}, A.~J. and {Charnay}, B. and {Gomez Gonzales}, C.~A. and {Gry}, C. and {Kenworthy}, M. and {Kral}, Q. and {Mordasini}, C. and {Moutou}, C. and {van der Plas}, G. and {Schlieder}, J.~E. and {Abe}, L. and {Antichi}, J. and {Baruffolo}, A. and {Baudoz}, P. and {Baudrand}, J. and {Blanchard}, P. and {Bazzon}, A. and {Buey}, T. and {Carbillet}, M. and {Carle}, M. and {Charton}, J. and {Cascone}, E. and {Claudi}, R. and {Costille}, A. and {Deboulbe}, A. and {De Caprio}, V. and {Dohlen}, K. and {Fantinel}, D. and {Feautrier}, P. and {Fusco}, T. and {Gigan}, P. and {Giro}, E. and {Gisler}, D. and {Gluck}, L. and {Hubin}, N. and {Hugot}, E. and {Jaquet}, M. and {Kasper}, M. and {Madec}, F. and {Magnard}, Y. and {Martinez}, P. and {Maurel}, D. and {Le Mignant}, D. and {M{\"o}ller-Nilsson}, O. and {Llored}, M. and {Moulin}, T. and {Orign{\'e}}, A. and {Pavlov}, A. and {Perret}, D. and {Petit}, C. and {Pragt}, J. and {Szulagyi}, J. and {Wildi}, F.},
         title = "{Post-conjunction detection of {\ensuremath{\beta}} Pictoris b with VLT/SPHERE}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planetary systems, stars: individual: HR 2020, instrumentation: high angular resolution, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2019,
         month = jan,
@@ -1513,7 +1413,6 @@ archivePrefix = {arXiv},
        eprint = {1809.08354},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019A&A...621L...8L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019A&A...621L...8L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1531,14 +1430,13 @@ archivePrefix = {arXiv},
        eprint = {1901.04050},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190104050B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019arXiv190104050B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2019ApJ...870...36M,
        author = {{Mellon}, Samuel N. and {Mamajek}, Eric E. and {Zwintz}, Konstanze and {David}, Trevor J. and {Stuik}, Remko and {Talens}, Geert Jan J. and {Dorval}, Patrick and {Burggraaff}, Olivier and {Kenworthy}, Matthew A. and {Bailey}, John I., III and {Lomberg}, Blaine B.~D. and {Kuhn}, Rudi B. and {Ireland}, Michael J. and {Crawford}, Steven M.},
         title = "{Discovery of {\ensuremath{\delta}} Scuti Pulsations in the Young Hybrid Debris Disk Star HD 156623}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {open clusters and associations: individual: Upper Centaurus-Lupus, Sco{\textendash}Cen, stars: early-type, stars: individual: HD 156623, stars: oscillations, stars: pre-main sequence, stars: variables: delta Scuti, Astrophysics - Solar and Stellar Astrophysics},
          year = 2019,
         month = jan,
@@ -1551,14 +1449,13 @@ archivePrefix = {arXiv},
        eprint = {1811.04118},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...870...36M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2019ApJ...870...36M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018A&A...620A.132H,
        author = {{Holwerda}, B.~W. and {Bridge}, J.~S. and {Ryan}, R. and {Kenworthy}, M.~A. and {Pirzkal}, N. and {Andersen}, M. and {Wilkins}, S. and {Smit}, R. and {Bernard}, S.~R. and {Meshkat}, T. and {Steele}, R. and {Bouwens}, R.~C.},
         title = "{Substellar and low-mass dwarf identification with near-infrared imaging space observatories}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {Galaxy: disk, Galaxy: halo, Galaxy: stellar content, gamma rays: stars, brown dwarfs, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2018,
         month = dec,
@@ -1570,14 +1467,13 @@ archivePrefix = {arXiv},
        eprint = {1805.00997},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018A&A...620A.132H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018A&A...620A.132H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018A&A...619A.154T,
        author = {{Talens}, G.~J.~J. and {Deul}, E.~R. and {Stuik}, R. and {Burggraaff}, O. and {Lesage}, A. -L. and {Spronck}, J.~F.~P. and {Mellon}, S.~N. and {Bailey}, J.~I. and {Mamajek}, E.~E. and {Kenworthy}, M.~A. and {Snellen}, I.~A.~G.},
         title = "{Data calibration for the MASCARA and bRing instruments}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {surveys, planetary systems, eclipses, telescopes, methods: data analysis, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2018,
         month = nov,
@@ -1589,14 +1485,13 @@ archivePrefix = {arXiv},
        eprint = {1810.04060},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018A&A...619A.154T},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018A&A...619A.154T.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018A&A...619A.157M,
        author = {{Mentel}, R.~T. and {Kenworthy}, M.~A. and {Cameron}, D.~A. and {Scott}, E.~L. and {Mellon}, S.~N. and {Hudec}, R. and {Birkby}, J.~L. and {Mamajek}, E.~E. and {Schrimpf}, A. and {Reichart}, D.~E. and {Haislip}, J.~B. and {Kouprianov}, V.~V. and {Hambsch}, F. -J. and {Tan}, T. -G. and {Hills}, K. and {Grindlay}, J.~E. and {Rodriguez}, J.~E. and {Lund}, M.~B. and {Kuhn}, R.~B.},
         title = "{Constraining the period of the ringed secondary companion to the young star J1407 with photographic plates}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planetary systems, planets and satellites: dynamical evolution and stability, planets and satellites: rings, telescopes, Astrophysics - Earth and Planetary Astrophysics},
          year = 2018,
         month = nov,
@@ -1608,15 +1503,13 @@ archivePrefix = {arXiv},
        eprint = {1810.05171},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018A&A...619A.157M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018A&A...619A.157M.pdf},
-	  preview = {2018A&A...619A.157M.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018MNRAS.480..914V,
        author = {{van Sluijs}, L. and {Vaendel}, D.~A.~J.~H. and {Holwerda}, B.~W. and {Kenworthy}, M.~A. and {Schneider}, G.},
         title = "{Feasibility of the debris ring transit method for the solar-like star HD 107146 by an occulted galaxy}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {methods: data analysis, techniques: high angular resolution, occultations, circumstellar matter, stars: individual HD 107146, Galaxy: general, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Astrophysics of Galaxies},
          year = 2018,
         month = oct,
@@ -1628,7 +1521,6 @@ archivePrefix = {arXiv},
        eprint = {1806.10532},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480..914V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018MNRAS.480..914V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1649,14 +1541,13 @@ archivePrefix = {arXiv},
        eprint = {1807.07042},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10698E..2SR},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10698E..2SR.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018A&A...616A..79G,
        author = {{Ginski}, C. and {Benisty}, M. and {van Holstein}, R.~G. and {Juh{\'a}sz}, A. and {Schmidt}, T.~O.~B. and {Chauvin}, G. and {de Boer}, J. and {Wilby}, M. and {Manara}, C.~F. and {Delorme}, P. and {M{\'e}nard}, F. and {Pinilla}, P. and {Birnstiel}, T. and {Flock}, M. and {Keller}, C. and {Kenworthy}, M. and {Milli}, J. and {Olofsson}, J. and {P{\'e}rez}, L. and {Snik}, F. and {Vogt}, N.},
         title = "{First direct detection of a polarized companion outside a resolved circumbinary disk around CS Chamaeleonis}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {stars: individual: CS Cha, protoplanetary disks, planet-disk interactions, techniques: polarimetric, Astrophysics - Earth and Planetary Astrophysics},
          year = 2018,
         month = aug,
@@ -1668,8 +1559,6 @@ archivePrefix = {arXiv},
        eprint = {1805.02261},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018A&A...616A..79G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018A&A...616A..79G.pdf},
-	  preview = {2018A&A...616A..79G.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1690,7 +1579,6 @@ archivePrefix = {arXiv},
        eprint = {1807.07100},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10706E..2LS},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10706E..2LS.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1707,7 +1595,6 @@ archivePrefix = {arXiv},
         pages = {107021U},
           doi = {10.1117/12.2311492},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..1UB},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10702E..1UB.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1724,8 +1611,6 @@ archivePrefix = {arXiv},
         pages = {10702A3},
           doi = {10.1117/12.2314066},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..A3K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10702E..A3K.pdf},
-	  preview = {2018SPIE10702E..A3K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1746,7 +1631,6 @@ archivePrefix = {arXiv},
        eprint = {1807.07043},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10703E..1UJ},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10703E..1UJ.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1767,8 +1651,6 @@ archivePrefix = {arXiv},
        eprint = {2012.01963},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..46K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10702E..46K.pdf},
-	  preview = {2018SPIE10702E..46K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1785,7 +1667,6 @@ archivePrefix = {arXiv},
         pages = {107023Y},
           doi = {10.1117/12.2310108},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..3YB},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10702E..3YB.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1806,8 +1687,6 @@ archivePrefix = {arXiv},
        eprint = {1807.04361},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10703E..2TL},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10703E..2TL.pdf},
-	  preview = {2018SPIE10703E..2TL.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1828,7 +1707,6 @@ archivePrefix = {arXiv},
        eprint = {1807.04315},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10703E..09M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10703E..09M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1845,7 +1723,6 @@ archivePrefix = {arXiv},
         pages = {1070248},
           doi = {10.1117/12.2314071},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..48C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10702E..48C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1862,7 +1739,6 @@ archivePrefix = {arXiv},
         pages = {107032C},
           doi = {10.1117/12.2311671},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10703E..2CV},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10703E..2CV.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1883,14 +1759,13 @@ archivePrefix = {arXiv},
        eprint = {1806.05661},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10706E..3HC},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10706E..3HC.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018A&A...615A.145M,
        author = {{Mol Lous}, M. and {Weenk}, E. and {Kenworthy}, M.~A. and {Zwintz}, K. and {Kuschnig}, R.},
         title = "{A search for transiting planets in the {\ensuremath{\beta}} Pictoris system}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: detection, planets and satellites: individual: {\ensuremath{\beta}} Pic, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
          year = 2018,
         month = jul,
@@ -1902,7 +1777,6 @@ archivePrefix = {arXiv},
        eprint = {1805.05240},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018A&A...615A.145M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018A&A...615A.145M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1923,7 +1797,6 @@ archivePrefix = {arXiv},
        eprint = {1807.05089},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..09D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10702E..09D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1940,7 +1813,6 @@ archivePrefix = {arXiv},
         pages = {107071H},
           doi = {10.1117/12.2310076},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10707E..1HB},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10707E..1HB.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1957,7 +1829,6 @@ archivePrefix = {arXiv},
         pages = {1070314},
           doi = {10.1117/12.2313325},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018SPIE10703E..14B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018SPIE10703E..14B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1971,7 +1842,6 @@ archivePrefix = {arXiv},
         pages = {27-31},
           doi = {10.18727/0722-6691/5078},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018Msngr.172...27G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018Msngr.172...27G.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -1991,7 +1861,6 @@ archivePrefix = {arXiv},
        eprint = {1810.01517},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...58V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018RNAAS...2...58V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2009,7 +1878,6 @@ archivePrefix = {arXiv},
        eprint = {1803.10693},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018arXiv180310693H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018arXiv180310693H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2027,14 +1895,13 @@ archivePrefix = {arXiv},
        eprint = {1801.06111},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018arXiv180106111P},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018arXiv180106111P.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2018AJ....155...19J,
        author = {{Jensen-Clem}, Rebecca and {Mawet}, Dimitri and {Gomez Gonzalez}, Carlos A. and {Absil}, Olivier and {Belikov}, Ruslan and {Currie}, Thayne and {Kenworthy}, Matthew A. and {Marois}, Christian and {Mazoyer}, Johan and {Ruane}, Garreth and {Tanner}, Angelle and {Cantalloube}, Faustine},
         title = "{A New Standard for Assessing the Performance of High Contrast Imaging Systems}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {methods: statistical, techniques: high angular resolution, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2018,
         month = jan,
@@ -2047,14 +1914,13 @@ archivePrefix = {arXiv},
        eprint = {1711.01215},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2018AJ....155...19J},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2018AJ....155...19J.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2017MNRAS.472.2713D,
        author = {{de Mooij}, Ernst J.~W. and {Watson}, Christopher A. and {Kenworthy}, Matthew A.},
         title = "{Characterizing exo-ring systems around fast-rotating stars using the Rossiter-McLaughlin effect}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {techniques: spectroscopic, planets and satellites: rings, Astrophysics - Earth and Planetary Astrophysics},
          year = 2017,
         month = dec,
@@ -2066,15 +1932,13 @@ archivePrefix = {arXiv},
        eprint = {1709.00680},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2713D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017MNRAS.472.2713D.pdf},
-	  preview = {2017MNRAS.472.2713D.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2017A&A...607A..45S,
        author = {{Stuik}, R. and {Bailey}, J.~I. and {Dorval}, P. and {Talens}, G.~J.~J. and {Laginja}, I. and {Mellon}, S.~N. and {Lomberg}, B.~B.~D. and {Crawford}, S.~M. and {Ireland}, M.~J. and {Mamajek}, E.~E. and {Kenworthy}, M.~A.},
         title = "{bRing: An observatory dedicated to monitoring the {\ensuremath{\beta}} Pictoris b Hill sphere transit}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: gaseous planets, planets and satellites: formation, planets and satellites: rings, eclipses, instrumentation: photometers, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2017,
         month = nov,
@@ -2086,14 +1950,13 @@ archivePrefix = {arXiv},
        eprint = {1709.01325},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017A&A...607A..45S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017A&A...607A..45S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2017MNRAS.471..740O,
        author = {{Osborn}, H.~P. and {Rodriguez}, J.~E. and {Kenworthy}, M.~A. and {Kennedy}, G.~M. and {Mamajek}, E.~E. and {Robinson}, C.~E. and {Espaillat}, C.~C. and {Armstrong}, D.~J. and {Shappee}, B.~J. and {Bieryla}, A. and {Latham}, D.~W. and {Anderson}, D.~R. and {Beatty}, T.~G. and {Berlind}, P. and {Calkins}, M.~L. and {Esquerdo}, G.~A. and {Gaudi}, B.~S. and {Hellier}, C. and {Holoien}, T.~W. -S. and {James}, D. and {Kochanek}, C.~S. and {Kuhn}, R.~B. and {Lund}, M.~B. and {Pepper}, J. and {Pollacco}, D.~L. and {Prieto}, J.~L. and {Siverd}, R.~J. and {Stassun}, K.~G. and {Stevens}, D.~J. and {Stanek}, K.~Z. and {West}, R.~G.},
         title = "{Periodic eclipses of the young star PDS 110 discovered with WASP and KELT photometry}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {protoplanetary discs, circumstellar matter, stars: individual: PDS 110, stars: pre-main-sequence, stars: variables: T Tauri, Herbig Ae/Be, Astrophysics - Earth and Planetary Astrophysics},
          year = 2017,
         month = oct,
@@ -2105,7 +1968,6 @@ archivePrefix = {arXiv},
        eprint = {1705.10346},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017MNRAS.471..740O},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017MNRAS.471..740O.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2123,7 +1985,6 @@ archivePrefix = {arXiv},
        eprint = {1710.02795},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017Msngr.169...32G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017Msngr.169...32G.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2138,14 +1999,13 @@ archivePrefix = {arXiv},
         pages = {0099},
           doi = {10.1038/s41550-017-0099},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017NatAs...1E..99K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017NatAs...1E..99K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2017ApJ...834..175O,
        author = {{Otten}, Gilles P.~P.~L. and {Snik}, Frans and {Kenworthy}, Matthew A. and {Keller}, Christoph U. and {Males}, Jared R. and {Morzinski}, Katie M. and {Close}, Laird M. and {Codona}, Johanan L. and {Hinz}, Philip M. and {Hornburg}, Kathryn J. and {Brickson}, Leandra L. and {Escuti}, Michael J.},
         title = "{On-sky Performance Analysis of the Vector Apodizing Phase Plate Coronagraph on MagAO/Clio2}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {infrared: planetary systems, instrumentation: high angular resolution, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2017,
         month = jan,
@@ -2158,7 +2018,6 @@ archivePrefix = {arXiv},
        eprint = {1702.04193},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017ApJ...834..175O},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017ApJ...834..175O.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2178,14 +2037,13 @@ archivePrefix = {arXiv},
        eprint = {1701.06568},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2017RSOS....460652K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2017RSOS....460652K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2016MNRAS.463.2265S,
        author = {{Scaringi}, S. and {Manara}, C.~F. and {Barenfeld}, S.~A. and {Groot}, P.~J. and {Isella}, A. and {Kenworthy}, M.~A. and {Knigge}, C. and {Maccarone}, T.~J. and {Ricci}, L. and {Ansdell}, M.},
         title = "{The peculiar dipping events in the disc-bearing young-stellar object EPIC 204278916}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {comets: general, planets and satellites: dynamical evolution and stability, stars: early-type, stars: individual: (EPIC 204278916), stars: peculiar, Astrophysics - Solar and Stellar Astrophysics},
          year = 2016,
         month = dec,
@@ -2197,14 +2055,13 @@ archivePrefix = {arXiv},
        eprint = {1608.07291},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.2265S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016MNRAS.463.2265S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2016A&A...596A...9R,
        author = {{Rieder}, Steven and {Kenworthy}, Matthew A.},
         title = "{Constraints on the size and dynamics of the J1407b ring system}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {planets and satellites: dynamical evolution and stability - planets and satellites: rings, Astrophysics - Earth and Planetary Astrophysics},
          year = 2016,
         month = nov,
@@ -2216,15 +2073,13 @@ archivePrefix = {arXiv},
        eprint = {1609.08485},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016A&A...596A...9R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016A&A...596A...9R.pdf},
-	  preview = {2016A&A...596A...9R.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2016A&A...595A.112G,
        author = {{Ginski}, C. and {Stolker}, T. and {Pinilla}, P. and {Dominik}, C. and {Boccaletti}, A. and {de Boer}, J. and {Benisty}, M. and {Biller}, B. and {Feldt}, M. and {Garufi}, A. and {Keller}, C.~U. and {Kenworthy}, M. and {Maire}, A.~L. and {M{\'e}nard}, F. and {Mesa}, D. and {Milli}, J. and {Min}, M. and {Pinte}, C. and {Quanz}, S.~P. and {van Boekel}, R. and {Bonnefoy}, M. and {Chauvin}, G. and {Desidera}, S. and {Gratton}, R. and {Girard}, J.~H.~V. and {Keppler}, M. and {Kopytova}, T. and {Lagrange}, A. -M. and {Langlois}, M. and {Rouan}, D. and {Vigan}, A.},
         title = "{Direct detection of scattered light gaps in the transitional disk around HD 97048 with VLT/SPHERE}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {stars: individual: HD 97048, protoplanetary disks, planet-disk interactions, techniques: polarimetric, Astrophysics - Earth and Planetary Astrophysics},
          year = 2016,
         month = nov,
@@ -2236,7 +2091,6 @@ archivePrefix = {arXiv},
        eprint = {1609.04027},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016A&A...595A.112G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016A&A...595A.112G.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2254,7 +2108,6 @@ archivePrefix = {arXiv},
        eprint = {1610.03159},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016arXiv161003159M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016arXiv161003159M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2274,7 +2127,6 @@ archivePrefix = {arXiv},
        eprint = {1606.08672},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016JAI.....550008H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016JAI.....550008H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2291,7 +2143,6 @@ archivePrefix = {arXiv},
         pages = {99083F},
           doi = {10.1117/12.2234074},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9908E..3FP},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9908E..3FP.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2308,7 +2159,6 @@ archivePrefix = {arXiv},
         pages = {99089Q},
           doi = {10.1117/12.2232512},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9908E..9QA},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9908E..9QA.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2325,7 +2175,6 @@ archivePrefix = {arXiv},
         pages = {9908A6},
           doi = {10.1117/12.2233655},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9908E..A6K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9908E..A6K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2342,7 +2191,6 @@ archivePrefix = {arXiv},
         pages = {990820},
           doi = {10.1117/12.2233974},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9908E..20B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9908E..20B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2359,7 +2207,6 @@ archivePrefix = {arXiv},
         pages = {99090B},
           doi = {10.1117/12.2233229},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9909E..0BS},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9909E..0BS.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2380,8 +2227,6 @@ archivePrefix = {arXiv},
        eprint = {1608.04701},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9912E..03B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9912E..03B.pdf},
-	  preview = {2016SPIE.9912E..03B.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2398,7 +2243,6 @@ archivePrefix = {arXiv},
         pages = {990952},
           doi = {10.1117/12.2234105},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9909E..52M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9909E..52M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2415,14 +2259,13 @@ archivePrefix = {arXiv},
         pages = {990973},
           doi = {10.1117/12.2233444},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016SPIE.9909E..73C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016SPIE.9909E..73C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2016MNRAS.458..425V,
        author = {{van Vledder}, Isabel and {van der Vlugt}, Dieuwertje and {Holwerda}, B.~W. and {Kenworthy}, M.~A. and {Bouwens}, R.~J. and {Trenti}, M.},
         title = "{The size and shape of the Milky Way disc and halo from M-type brown dwarfs in the BoRG survey}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {techniques: photometric, stars: low-mass, stars: luminosity function, mass function, Galaxy: disc, Galaxy: halo, Galaxy: stellar content, Astrophysics - Astrophysics of Galaxies},
          year = 2016,
         month = may,
@@ -2434,14 +2277,13 @@ archivePrefix = {arXiv},
        eprint = {1603.05287},
  primaryClass = {astro-ph.GA},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.458..425V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016MNRAS.458..425V.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2016A&A...586L...8L,
        author = {{Lagrange}, A. -M. and {Langlois}, M. and {Gratton}, R. and {Maire}, A. -L. and {Milli}, J. and {Olofsson}, J. and {Vigan}, A. and {Bailey}, V. and {Mesa}, D. and {Chauvin}, G. and {Boccaletti}, A. and {Galicher}, R. and {Girard}, J.~H. and {Bonnefoy}, M. and {Samland}, M. and {Menard}, F. and {Henning}, T. and {Kenworthy}, M. and {Thalmann}, C. and {Beust}, H. and {Beuzit}, J. -L. and {Brandner}, W. and {Buenzli}, E. and {Cheetham}, A. and {Janson}, M. and {le Coroller}, H. and {Lannier}, J. and {Mouillet}, D. and {Peretti}, S. and {Perrot}, C. and {Salter}, G. and {Sissa}, E. and {Wahhaj}, Z. and {Abe}, L. and {Desidera}, S. and {Feldt}, M. and {Madec}, F. and {Perret}, D. and {Petit}, C. and {Rabou}, P. and {Soenke}, C. and {Weber}, L.},
         title = "{A narrow, edge-on disk resolved around HD 106906 with SPHERE}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {techniques: high angular resolution, stars: individual: HD 106906, planetary systems, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2016,
         month = feb,
@@ -2453,7 +2295,6 @@ archivePrefix = {arXiv},
        eprint = {1510.02511},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016A&A...586L...8L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016A&A...586L...8L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2469,7 +2310,6 @@ archivePrefix = {arXiv},
         pages = {171-174},
           doi = {10.1017/S1743921315006195},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016IAUS..314..171K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2016IAUS..314..171K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2484,15 +2324,13 @@ archivePrefix = {arXiv},
         pages = {34-41},
           doi = {10.1038/scientificamerican0116-34},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015SciAm.314a..34K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015SciAm.314a..34K.pdf},
-	  preview = {2015SciAm.314a..34K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015MNRAS.453.2378M,
        author = {{Meshkat}, T. and {Bonnefoy}, M. and {Mamajek}, E.~E. and {Quanz}, S.~P. and {Chauvin}, G. and {Kenworthy}, M.~A. and {Rameau}, J. and {Meyer}, M.~R. and {Lagrange}, A. -M. and {Lannier}, J. and {Delorme}, P.},
         title = "{Discovery of a low-mass companion to the F7V star HD 984}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {techniques: image processing, techniques: high angular resolution, instrumentation: adaptive optics, stars: individual: HD 984, stars: low-mass, Astrophysics - Earth and Planetary Astrophysics},
          year = 2015,
         month = nov,
@@ -2504,15 +2342,13 @@ archivePrefix = {arXiv},
        eprint = {1507.08291},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.453.2378M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015MNRAS.453.2378M.pdf},
-	  preview = {2015MNRAS.453.2378M.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015MNRAS.453.2533M,
        author = {{Meshkat}, T. and {Kenworthy}, M.~A. and {Reggiani}, M. and {Quanz}, S.~P. and {Mamajek}, E.~E. and {Meyer}, M.~R.},
         title = "{Searching for gas giant planets on Solar system scales - a NACO/APP L'-band survey of A- and F-type main-sequence stars}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {instrumentation: adaptive optics, instrumentation: high angular resolution, methods: statistical, techniques: image processing, stars: early-type, Astrophysics - Earth and Planetary Astrophysics},
          year = 2015,
         month = nov,
@@ -2524,7 +2360,6 @@ archivePrefix = {arXiv},
        eprint = {1508.00565},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.453.2533M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015MNRAS.453.2533M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2537,7 +2372,6 @@ archivePrefix = {arXiv},
           eid = {EPSC2015-756},
         pages = {EPSC2015-756},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015EPSC...10..756K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015EPSC...10..756K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2558,14 +2392,13 @@ archivePrefix = {arXiv},
        eprint = {1509.01299},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015SPIE.9605E..1GD},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015SPIE.9605E..1GD.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015MNRAS.451.2390H,
        author = {{Holwerda}, B.~W. and {Keel}, W.~C. and {Kenworthy}, M.~A. and {Mack}, K.~J.},
         title = "{The dependence of the A$_{V}$ prior for SN Ia on host mass and disc inclination}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {dust, extinction, galaxies: general, galaxies: ISM, galaxies: structure, distance scale, Astrophysics - Cosmology and Nongalactic Astrophysics},
          year = 2015,
         month = aug,
@@ -2577,14 +2410,13 @@ archivePrefix = {arXiv},
        eprint = {1505.03949},
  primaryClass = {astro-ph.CO},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.2390H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015MNRAS.451.2390H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015ApJ...807...64Q,
        author = {{Quanz}, Sascha P. and {Amara}, Adam and {Meyer}, Michael R. and {Girard}, Julien H. and {Kenworthy}, Matthew A. and {Kasper}, Markus},
         title = "{Confirmation and Characterization of the Protoplanet HD 100546 b{\textemdash}Direct Evidence for Gas Giant Planet Formation at 50 AU}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {planet{\textendash}disk interactions, planets and satellites: detection, planets and satellites: formation, planets and satellites: gaseous planets, protoplanetary disks, stars: pre-main sequence, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2015,
         month = jul,
@@ -2597,15 +2429,13 @@ archivePrefix = {arXiv},
        eprint = {1412.5173},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...807...64Q},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015ApJ...807...64Q.pdf},
-	  preview = {2015ApJ...807...64Q.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015A&A...576A..59S,
        author = {{Snellen}, I. and {de Kok}, R. and {Birkby}, J.~L. and {Brandl}, B. and {Brogi}, M. and {Keller}, C. and {Kenworthy}, M. and {Schwarz}, H. and {Stuik}, R.},
         title = "{Combining high-dispersion spectroscopy with high contrast imaging: Probing rocky planets around our nearest neighbors}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {infrared: planetary systems, techniques: imaging spectroscopy, techniques: high angular resolution, methods: data analysis, Astrophysics - Earth and Planetary Astrophysics},
          year = 2015,
         month = apr,
@@ -2617,14 +2447,13 @@ archivePrefix = {arXiv},
        eprint = {1503.01136},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015A&A...576A..59S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015A&A...576A..59S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015ApJ...800....5M,
        author = {{Meshkat}, Tiffany and {Bailey}, Vanessa P. and {Su}, Kate Y.~L. and {Kenworthy}, Matthew A. and {Mamajek}, Eric E. and {Hinz}, Philip M. and {Smith}, Paul S.},
         title = "{Searching for Planets in Holey Debris Disks with the Apodizing Phase Plate}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {circumstellar matter, planetary systems, stars: individual: HD 17848 HD 28355 HD 37484 HD 95086, Astrophysics - Earth and Planetary Astrophysics},
          year = 2015,
         month = feb,
@@ -2637,14 +2466,13 @@ archivePrefix = {arXiv},
        eprint = {1412.5179},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...800....5M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015ApJ...800....5M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015ApJ...800..126K,
        author = {{Kenworthy}, M.~A. and {Mamajek}, E.~E.},
         title = "{Modeling Giant Extrasolar Ring Systems in Eclipse and the Case of J1407b: Sculpting by Exomoons?}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {eclipses, planets and satellites: rings, protoplanetary disks, stars: individual: 1SWASP J140747.93-394542.6, techniques: high angular resolution, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2015,
         month = feb,
@@ -2657,15 +2485,13 @@ archivePrefix = {arXiv},
        eprint = {1501.05652},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...800..126K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015ApJ...800..126K.pdf},
-	  preview = {2015ApJ...800..126K.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2015MNRAS.446..411K,
        author = {{Kenworthy}, M.~A. and {Lacour}, S. and {Kraus}, A. and {Triaud}, A.~H.~M.~J. and {Mamajek}, E.~E. and {Scott}, E.~L. and {S{\'e}gransan}, D. and {Ireland}, M. and {Hambsch}, F. -J. and {Reichart}, D.~E. and {Haislip}, J.~B. and {LaCluyze}, A.~P. and {Moore}, J.~P. and {Frank}, N.~R.},
         title = "{Mass and period limits on the ringed companion transiting the young star J1407}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {planets and satellites: formation, planets and satellites: rings, binaries: eclipsing, stars: individual: 1SWASP J140747.93-394542.6 (ASAS J140748-3945.7), planetary systems, Astrophysics - Solar and Stellar Astrophysics},
          year = 2015,
         month = jan,
@@ -2677,7 +2503,6 @@ archivePrefix = {arXiv},
        eprint = {1410.6577},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..411K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2015MNRAS.446..411K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2696,15 +2521,13 @@ archivePrefix = {arXiv},
        eprint = {1412.0660},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014OExpr..2230287O},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014OExpr..2230287O.pdf},
-	  preview = {2014OExpr..2230287O.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014ApJ...792...97M,
        author = {{Mawet}, D. and {Milli}, J. and {Wahhaj}, Z. and {Pelat}, D. and {Absil}, O. and {Delacroix}, C. and {Boccaletti}, A. and {Kasper}, M. and {Kenworthy}, M. and {Marois}, C. and {Mennesson}, B. and {Pueyo}, L.},
         title = "{Fundamental Limitations of High Contrast Imaging Set by Small Sample Statistics}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {methods: statistical, techniques: high angular resolution, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2014,
         month = sep,
@@ -2717,7 +2540,6 @@ archivePrefix = {arXiv},
        eprint = {1407.2247},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...792...97M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014ApJ...792...97M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2738,7 +2560,6 @@ archivePrefix = {arXiv},
        eprint = {1409.3087},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014SPIE.9147E..21B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014SPIE.9147E..21B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2759,7 +2580,6 @@ archivePrefix = {arXiv},
        eprint = {1407.5846},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014SPIE.9148E..5DK},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014SPIE.9148E..5DK.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2776,14 +2596,13 @@ archivePrefix = {arXiv},
         pages = {91477U},
           doi = {10.1117/12.2055452},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014SPIE.9147E..7US},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014SPIE.9147E..7US.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014MNRAS.441.2845V,
        author = {{van Werkhoven}, T.~I.~M. and {Kenworthy}, M.~A. and {Mamajek}, E.~E.},
         title = "{Analysis of 1SWASP J140747.93-394542.6 eclipse fine-structure: hints of exomoons}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {planets and satellites: formation, planets and satellites: rings, binaries: eclipsing, planetary systems, stars: individual: 1SWASP J140747.93-394542.6 (ASAS J140748-3945.7)},
          year = 2014,
         month = jul,
@@ -2792,15 +2611,13 @@ archivePrefix = {arXiv},
         pages = {2845-2854},
           doi = {10.1093/mnras/stu725},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014MNRAS.441.2845V},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014MNRAS.441.2845V.pdf},
-	  preview = {2014MNRAS.441.2845V.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014ApOpt..53.4565K,
        author = {{Korkiakoski}, Visa and {Keller}, Christoph U. and {Doelman}, Niek and {Kenworthy}, Matthew and {Otten}, Gilles and {Verhaegen}, Michel},
         title = "{Fast \& Furious focal-plane wavefront sensing}",
-      journal = {ApOpt},
+      journal = {\ao},
      keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Physics - Optics},
          year = 2014,
         month = jul,
@@ -2812,7 +2629,6 @@ archivePrefix = {arXiv},
        eprint = {1406.1006},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApOpt..53.4565K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014ApOpt..53.4565K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2833,14 +2649,13 @@ archivePrefix = {arXiv},
        eprint = {1410.6244},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014SPIE.9148E..3XD},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014SPIE.9148E..3XD.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014MNRAS.440.1470B,
        author = {{Birkby}, J.~L. and {Cappetta}, M. and {Cruz}, P. and {Koppenhoefer}, J. and {Ivanyuk}, O. and {Mustill}, A.~J. and {Hodgkin}, S.~T. and {Pinfield}, D.~J. and {Sip{\H{o}}cz}, B. and {Kov{\'a}cs}, G. and {Saglia}, R. and {Pavlenko}, Y. and {Barrado}, D. and {Bayo}, A. and {Campbell}, D. and {Catalan}, S. and {Fossati}, L. and {G{\'a}lvez-Ortiz}, M. -C. and {Kenworthy}, M. and {Lillo-Box}, J. and {Mart{\'\i}n}, E.~L. and {Mislis}, D. and {de Mooij}, E.~J.~W. and {Nefs}, S.~V. and {Snellen}, I.~A.~G. and {Stoev}, H. and {Zendejas}, J. and {del Burgo}, C. and {Barnes}, J. and {Goulding}, N. and {Haswell}, C.~A. and {Kuznetsov}, M. and {Lodieu}, N. and {Murgas}, F. and {Palle}, E. and {Solano}, E. and {Steele}, P. and {Tata}, R.},
         title = "{WTS-2 b: a hot Jupiter orbiting near its tidal destruction radius around a K dwarf}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {surveys, planets and satellites: detection, planets and satellites: dynamical evolution and stability, planets and satellites: fundamental parameters, planets and satellites: individual: WTS-2 b, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
          year = 2014,
         month = may,
@@ -2852,14 +2667,13 @@ archivePrefix = {arXiv},
        eprint = {1402.5416},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014MNRAS.440.1470B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014MNRAS.440.1470B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014MNRAS.439..488Z,
        author = {{Zeegers}, S.~T. and {Kenworthy}, M.~A. and {Kalas}, P.},
         title = "{Feasibility of transit photometry of nearby debris discs}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {techniques: photometric, occultations, circumstellar matter, stars: individual: Fomalhaut, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2014,
         month = mar,
@@ -2871,15 +2685,13 @@ archivePrefix = {arXiv},
        eprint = {1402.7227},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014MNRAS.439..488Z},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014MNRAS.439..488Z.pdf},
-	  preview = {2014MNRAS.439..488Z.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014ApJ...780L...4B,
        author = {{Bailey}, Vanessa and {Meshkat}, Tiffany and {Reiter}, Megan and {Morzinski}, Katie and {Males}, Jared and {Su}, Kate Y.~L. and {Hinz}, Philip M. and {Kenworthy}, Matthew and {Stark}, Daniel and {Mamajek}, Eric and {Briguglio}, Runa and {Close}, Laird M. and {Follette}, Katherine B. and {Puglisi}, Alfio and {Rodigas}, Timothy and {Weinberger}, Alycia J. and {Xompero}, Marco},
         title = "{HD 106906 b: A Planetary-mass Companion Outside a Massive Debris Disk}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {instrumentation: adaptive optics, open clusters and associations: individual: Lower Centaurus Crux, planet-disk interactions, planetary systems, stars: individual: HD 106906, Astrophysics - Earth and Planetary Astrophysics},
          year = 2014,
         month = jan,
@@ -2892,14 +2704,13 @@ archivePrefix = {arXiv},
        eprint = {1312.1265},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...780L...4B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014ApJ...780L...4B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2014ApJ...780...17M,
        author = {{Meshkat}, Tiffany and {Kenworthy}, Matthew A. and {Quanz}, Sascha P. and {Amara}, Adam},
         title = "{Optimized Principal Component Analysis on Coronagraphic Images of the Fomalhaut System}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {methods: data analysis, planets and satellites: detection, stars: individual: Fomalhaut, techniques: image processing, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2014,
         month = jan,
@@ -2912,7 +2723,6 @@ archivePrefix = {arXiv},
        eprint = {1310.8577},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...780...17M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014ApJ...780...17M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2928,7 +2738,6 @@ archivePrefix = {arXiv},
         pages = {40-41},
           doi = {10.1017/S1743921313007771},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014IAUS..299...40K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014IAUS..299...40K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -2944,14 +2753,13 @@ archivePrefix = {arXiv},
         pages = {56-57},
           doi = {10.1017/S1743921313007850},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2014IAUS..299...56M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2014IAUS..299...56M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013ApJ...779L..26R,
        author = {{Rameau}, J. and {Chauvin}, G. and {Lagrange}, A. -M. and {Meshkat}, T. and {Boccaletti}, A. and {Quanz}, S.~P. and {Currie}, T. and {Mawet}, D. and {Girard}, J.~H. and {Bonnefoy}, M. and {Kenworthy}, M.},
         title = "{Confirmation of the Planet around HD 95086 by Direct Imaging}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {instrumentation: adaptive optics, planets and satellites: detection, stars: individual: HD 95086, Astrophysics - Earth and Planetary Astrophysics},
          year = 2013,
         month = dec,
@@ -2964,14 +2772,13 @@ archivePrefix = {arXiv},
        eprint = {1310.7483},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...779L..26R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013ApJ...779L..26R.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013AJ....146..154M,
        author = {{Mamajek}, Eric E. and {Bartlett}, Jennifer L. and {Seifahrt}, Andreas and {Henry}, Todd J. and {Dieterich}, Sergio B. and {Lurie}, John C. and {Kenworthy}, Matthew A. and {Jao}, Wei-Chun and {Riedel}, Adric R. and {Subasavage}, John P. and {Winters}, Jennifer G. and {Finch}, Charlie T. and {Ianna}, Philip A. and {Bean}, Jacob},
         title = "{The Solar Neighborhood. XXX. Fomalhaut C}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {binaries: visual, stars: activity, stars: fundamental parameters, stars: individual: LP 876-10 Fomalhaut TW PsA, stars: rotation, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Astrophysics of Galaxies},
          year = 2013,
         month = dec,
@@ -2984,14 +2791,13 @@ archivePrefix = {arXiv},
        eprint = {1310.0764},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013AJ....146..154M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013AJ....146..154M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013ApOpt..52.7554K,
        author = {{Korkiakoski}, Visa and {Doelman}, Niek and {Codona}, Johanan and {Kenworthy}, Matthew and {Otten}, Gilles and {Keller}, Christoph U.},
         title = "{Calibrating a high-resolution wavefront corrector with a static focal-plane camera}",
-      journal = {ApOpt},
+      journal = {\ao},
      keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Physics - Optics},
          year = 2013,
         month = nov,
@@ -3003,14 +2809,13 @@ archivePrefix = {arXiv},
        eprint = {1310.1241},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApOpt..52.7554K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013ApOpt..52.7554K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013ApJ...775L..40M,
        author = {{Meshkat}, T. and {Bailey}, V. and {Rameau}, J. and {Bonnefoy}, M. and {Boccaletti}, A. and {Mamajek}, E.~E. and {Kenworthy}, M. and {Chauvin}, G. and {Lagrange}, A. -M. and {Su}, K.~Y.~L. and {Currie}, T.},
         title = "{Further Evidence of the Planetary Nature of HD 95086 b from Gemini/NICI H-band Data}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {planets and satellites: detection, stars: individual: HD 95086, Astrophysics - Earth and Planetary Astrophysics},
          year = 2013,
         month = oct,
@@ -3023,7 +2828,6 @@ archivePrefix = {arXiv},
        eprint = {1309.0543},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...775L..40M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013ApJ...775L..40M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3040,7 +2844,6 @@ archivePrefix = {arXiv},
         pages = {88640C},
           doi = {10.1117/12.2023600},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013SPIE.8864E..0CR},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013SPIE.8864E..0CR.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3051,7 +2854,6 @@ archivePrefix = {arXiv},
          year = 2013,
         month = jul,
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013prpl.conf2K035S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013prpl.conf2K035S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3062,7 +2864,6 @@ archivePrefix = {arXiv},
          year = 2013,
         month = jul,
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013prpl.conf2K013R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013prpl.conf2K013R.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3078,14 +2879,13 @@ archivePrefix = {arXiv},
         pages = {03008},
           doi = {10.1051/epjconf/20134703008},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013EPJWC..4703008S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013EPJWC..4703008S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013ApJ...767..100C,
        author = {{Codona}, Johanan L. and {Kenworthy}, Matthew},
         title = "{Focal Plane Wavefront Sensing Using Residual Adaptive Optics Speckles}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {instrumentation: adaptive optics, instrumentation: high angular resolution, instrumentation: miscellaneous, methods: statistical, techniques: interferometric, techniques: miscellaneous, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2013,
         month = apr,
@@ -3098,14 +2898,13 @@ archivePrefix = {arXiv},
        eprint = {1303.0527},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...767..100C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013ApJ...767..100C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013ApJ...766L...1Q,
        author = {{Quanz}, Sascha P. and {Amara}, Adam and {Meyer}, Michael R. and {Kenworthy}, Matthew A. and {Kasper}, Markus and {Girard}, Julien H.},
         title = "{A Young Protoplanet Candidate Embedded in the Circumstellar Disk of HD 100546}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {planet-disk interactions, planets and satellites: formation, protoplanetary disks, stars: formation, stars: individual: HD 100546, Astrophysics - Astrophysics of Galaxies, Astrophysics - Earth and Planetary Astrophysics},
          year = 2013,
         month = mar,
@@ -3118,14 +2917,13 @@ archivePrefix = {arXiv},
        eprint = {1302.7122},
  primaryClass = {astro-ph.GA},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...766L...1Q},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013ApJ...766L...1Q.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013ApJ...764....7K,
        author = {{Kenworthy}, Matthew A. and {Meshkat}, Tiffany and {Quanz}, Sascha P. and {Girard}, Julien H. and {Meyer}, Michael R. and {Kasper}, Markus},
         title = "{Coronagraphic Observations of Fomalhaut at Solar System Scales}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {instrumentation: high angular resolution, planetary systems, planets and satellites: detection, stars: individual: Fomalhaut, techniques: high angular resolution, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2013,
         month = feb,
@@ -3138,14 +2936,13 @@ archivePrefix = {arXiv},
        eprint = {1212.1459},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...764....7K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013ApJ...764....7K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2013A&A...550A..54D,
        author = {{de Mooij}, E.~J.~W. and {Brogi}, M. and {de Kok}, R.~J. and {Snellen}, I.~A.~G. and {Kenworthy}, M.~A. and {Karjalainen}, R.},
         title = "{The GROUSE project. III. K$_{s}$-band observations of the thermal emission from WASP-33b}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {techniques: photometric, stars: individual: WASP-33, planets and satellites: atmospheres, Astrophysics - Earth and Planetary Astrophysics},
          year = 2013,
         month = feb,
@@ -3157,7 +2954,6 @@ archivePrefix = {arXiv},
        eprint = {1301.3380},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2013A&A...550A..54D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2013A&A...550A..54D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3174,14 +2970,13 @@ archivePrefix = {arXiv},
         pages = {84464F},
           doi = {10.1117/12.924814},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012SPIE.8446E..4FL},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012SPIE.8446E..4FL.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2012A&A...545L...5B,
        author = {{Brogi}, M. and {Keller}, C.~U. and {de Juan Ovelar}, M. and {Kenworthy}, M.~A. and {de Kok}, R.~J. and {Min}, M. and {Snellen}, I.~A.~G.},
         title = "{Evidence for the disintegration of KIC 12557548 b}",
-      journal = {A\&A},
+      journal = {\aap},
      keywords = {eclipses, occultations, planet-star interactions, planets and satellites: general, Astrophysics - Earth and Planetary Astrophysics},
          year = 2012,
         month = sep,
@@ -3193,7 +2988,6 @@ archivePrefix = {arXiv},
        eprint = {1208.2988},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012A&A...545L...5B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012A&A...545L...5B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3210,7 +3004,6 @@ archivePrefix = {arXiv},
         pages = {84469F},
           doi = {10.1117/12.925839},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012SPIE.8446E..9FO},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012SPIE.8446E..9FO.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3231,7 +3024,6 @@ archivePrefix = {arXiv},
        eprint = {1207.4892},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012SPIE.8450E..31C},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012SPIE.8450E..31C.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3252,7 +3044,6 @@ archivePrefix = {arXiv},
        eprint = {1208.4116},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012SPIE.8444E..0IS},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012SPIE.8444E..0IS.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3273,14 +3064,13 @@ archivePrefix = {arXiv},
        eprint = {1207.2970},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012SPIE.8450E..0MS},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012SPIE.8450E..0MS.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2012ApJ...752..131K,
        author = {{Kenworthy}, Matthew A. and {Scuderi}, Louis J.},
         title = "{Infrared Variability of the Gliese 569B System}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {binaries: close, brown dwarfs, stars: individual: GJ569, stars: low-mass, Astrophysics - Solar and Stellar Astrophysics},
          year = 2012,
         month = jun,
@@ -3293,14 +3083,13 @@ archivePrefix = {arXiv},
        eprint = {1204.3454},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012ApJ...752..131K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012ApJ...752..131K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2012AJ....143...72M,
        author = {{Mamajek}, Eric E. and {Quillen}, Alice C. and {Pecaut}, Mark J. and {Moolekamp}, Fred and {Scott}, Erin L. and {Kenworthy}, Matthew A. and {Collier Cameron}, Andrew and {Parley}, Neil R.},
         title = "{Planetary Construction Zones in Occultation: Discovery of an Extrasolar Ring System Transiting a Young Sun-like Star and Future Prospects for Detecting Eclipses by Circumsecondary and Circumplanetary Disks}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {binaries: eclipsing, planetary systems, planets and satellites: formation, planets and satellites: rings, stars: individual: 1SWASP J140747.93{\textendash}394542.6 ASAS J140748{\textendash}3945.7, stars: pre-main sequence, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2012,
         month = mar,
@@ -3313,7 +3102,6 @@ archivePrefix = {arXiv},
        eprint = {1108.4070},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2012AJ....143...72M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2012AJ....143...72M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3326,14 +3114,13 @@ archivePrefix = {arXiv},
           eid = {21},
         pages = {21},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2011aoel.confE..21K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2011aoel.confE..21K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2011ApJ...736L..32Q,
        author = {{Quanz}, Sascha P. and {Kenworthy}, Matthew A. and {Meyer}, Michael R. and {Girard}, Julien H.~V. and {Kasper}, Markus},
         title = "{Searching for Gas Giant Planets on Solar System Scales: VLT NACO/APP Observations of the Debris Disk Host Stars HD172555 and HD115892}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {planetary systems, planets and satellites: detection, planets and satellites: formation, stars: formation, stars: individual: HD172555 HD115892, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Astrophysics of Galaxies},
          year = 2011,
         month = aug,
@@ -3346,14 +3133,13 @@ archivePrefix = {arXiv},
        eprint = {1106.4528},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2011ApJ...736L..32Q},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2011ApJ...736L..32Q.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2011ApJ...732L..34T,
        author = {{Thalmann}, C. and {Usuda}, T. and {Kenworthy}, M. and {Janson}, M. and {Mamajek}, E.~E. and {Brandner}, W. and {Dominik}, C. and {Goto}, M. and {Hayano}, Y. and {Henning}, T. and {Hinz}, P.~M. and {Minowa}, Y. and {Tamura}, M.},
         title = "{Piercing the Glare: A Direct Imaging Search for Planets in the Sirius System}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {planetary systems, stars: individual: Sirius A Sirius B, techniques: high angular resolution, white dwarfs, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2011,
         month = may,
@@ -3366,14 +3152,13 @@ archivePrefix = {arXiv},
        eprint = {1104.1427},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2011ApJ...732L..34T},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2011ApJ...732L..34T.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2010ApJ...722L..49Q,
        author = {{Quanz}, Sascha P. and {Meyer}, Michael R. and {Kenworthy}, Matthew A. and {Girard}, Julien H.~V. and {Kasper}, Markus and {Lagrange}, Anne-Marie and {Apai}, Daniel and {Boccaletti}, Anthony and {Bonnefoy}, Micka{\"e}l and {Chauvin}, Gael and {Hinz}, Philip M. and {Lenzen}, Rainer},
         title = "{First Results from Very Large Telescope NACO Apodizing Phase Plate: 4 {\ensuremath{\mu}}m Images of The Exoplanet {\ensuremath{\beta}} Pictoris b}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {planets and satellites: detection, planets and satellites: formation, stars: formation, stars: pre-main sequence, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
          year = 2010,
         month = oct,
@@ -3385,7 +3170,6 @@ archivePrefix = {arXiv},
        eprint = {1009.0538},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...722L..49Q},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010ApJ...722L..49Q.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3398,7 +3182,6 @@ archivePrefix = {arXiv},
        volume = {141},
         pages = {2-4},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010Msngr.141....2K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010Msngr.141....2K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3415,7 +3198,6 @@ archivePrefix = {arXiv},
         pages = {77342P},
           doi = {10.1117/12.856819},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010SPIE.7734E..2PK},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010SPIE.7734E..2PK.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3436,7 +3218,6 @@ archivePrefix = {arXiv},
        eprint = {1009.1256},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010SPIE.7736E..2NG},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010SPIE.7736E..2NG.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3457,14 +3238,13 @@ archivePrefix = {arXiv},
        eprint = {1007.3448},
  primaryClass = {astro-ph.IM},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010SPIE.7735E..32K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010SPIE.7735E..32K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2010ApJ...716..417H,
        author = {{Hinz}, Philip M. and {Rodigas}, Timothy J. and {Kenworthy}, Matthew A. and {Sivanandam}, Suresh and {Heinze}, Aren N. and {Mamajek}, Eric E. and {Meyer}, Michael R.},
         title = "{Thermal Infrared MMTAO Observations of the HR 8799 Planetary System}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {instrumentation: adaptive optics, planets and satellites: atmospheres, Astrophysics - Earth and Planetary Astrophysics},
          year = 2010,
         month = jun,
@@ -3476,14 +3256,13 @@ archivePrefix = {arXiv},
        eprint = {1003.4986},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...716..417H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010ApJ...716..417H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2010ApJ...714.1551H,
        author = {{Heinze}, A.~N. and {Hinz}, Philip M. and {Sivanandam}, Suresh and {Kenworthy}, Matthew and {Meyer}, Michael and {Miller}, Douglas},
         title = "{Constraints on Long-period Planets from an L'- and M-band Survey of Nearby Sun-like Stars: Observations}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {astrometry, binaries: general, infrared: planetary systems, instrumentation: adaptive optics, planetary systems, planets and satellites: detection, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
          year = 2010,
         month = may,
@@ -3495,14 +3274,13 @@ archivePrefix = {arXiv},
        eprint = {1003.5340},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...714.1551H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010ApJ...714.1551H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2010ApJ...714.1570H,
        author = {{Heinze}, A.~N. and {Hinz}, Philip M. and {Kenworthy}, Matthew and {Meyer}, Michael and {Sivanandam}, Suresh and {Miller}, Douglas},
         title = "{Constraints on Long-period Planets from an L'- and M-band Survey of Nearby Sun-like Stars: Modeling Results}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {astrometry, infrared: planetary systems, instrumentation: adaptive optics, planetary systems, planets and satellites: detection, Astrophysics - Earth and Planetary Astrophysics},
          year = 2010,
         month = may,
@@ -3514,14 +3292,13 @@ archivePrefix = {arXiv},
        eprint = {1003.5323},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010ApJ...714.1570H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010ApJ...714.1570H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2010AJ....139..919M,
        author = {{Mamajek}, Eric E. and {Kenworthy}, Matthew A. and {Hinz}, Philip M. and {Meyer}, Michael R.},
         title = "{Discovery of a Faint Companion to Alcor Using MMT/AO 5 {\ensuremath{\mu}}m Imaging}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {binaries: close, binaries: general, binaries: visual, open clusters and associations: individual: Ursa Major, stars: individual: Alcor Mizar, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Astrophysics of Galaxies},
          year = 2010,
         month = mar,
@@ -3533,14 +3310,13 @@ archivePrefix = {arXiv},
        eprint = {0911.5028},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2010AJ....139..919M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2010AJ....139..919M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2009ApJ...699.1423S,
        author = {{Schuster}, M.~T. and {Marengo}, M. and {Hora}, J.~L. and {Fazio}, G.~G. and {Humphreys}, R.~M. and {Gehrz}, R.~D. and {Hinz}, P.~M. and {Kenworthy}, M.~A. and {Hoffmann}, W.~F.},
         title = "{Imaging the Cool Hypergiant NML Cygni's Dusty Circumstellar Envelope with Adaptive Optics}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {circumstellar matter, infrared: stars, open clusters and associations: individual: Cyg OB2, stars: imaging, stars: individual: NML Cyg, stars: mass loss, Astrophysics - Solar and Stellar Astrophysics},
          year = 2009,
         month = jul,
@@ -3552,14 +3328,13 @@ archivePrefix = {arXiv},
        eprint = {0904.4690},
  primaryClass = {astro-ph.SR},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...699.1423S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2009ApJ...699.1423S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2009ApJ...697.1928K,
        author = {{Kenworthy}, Matthew A. and {Mamajek}, Eric E. and {Hinz}, Philip M. and {Meyer}, Michael R. and {Heinze}, Aren N. and {Miller}, Douglas L. and {Sivanandam}, Suresh and {Freed}, Melanie},
         title = "{MMT/AO 5 {\ensuremath{\mu}}m Imaging Constraints on the Existence of Giant Planets Orbiting Fomalhaut at \raisebox{-0.5ex}\textasciitilde13-40 AU}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {astrometry, instrumentation: adaptive optics, planetary systems, stars: individual: Fomalhaut, Astrophysics},
          year = 2009,
         month = jun,
@@ -3571,7 +3346,6 @@ archivePrefix = {arXiv},
        eprint = {0811.2443},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...697.1928K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2009ApJ...697.1928K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3584,14 +3358,13 @@ archivePrefix = {arXiv},
         month = mar,
         pages = {37},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2009astro2010T..37L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2009astro2010T..37L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2009ApJ...693.1500L,
        author = {{Liu}, Wilson M. and {Hinz}, Philip M. and {Hoffmann}, William F. and {Brusa}, Guido and {Miller}, Doug and {Kenworthy}, Matthew A.},
         title = "{Observations of Main-Sequence Stars and Limits on Exozodical Dust with Nulling Interferometry}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {circumstellar matter, instrumentation: adaptive optics, stars: individual: {\ensuremath{\alpha}} CrB {\ensuremath{\alpha}} Lyr {\ensuremath{\beta}} Leo {\ensuremath{\gamma}} Ser epsilon Eri {\ensuremath{\zeta}} Lep, techniques: interferometric},
          year = 2009,
         month = mar,
@@ -3600,7 +3373,6 @@ archivePrefix = {arXiv},
         pages = {1500-1507},
           doi = {10.1088/0004-637X/693/2/1500},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...693.1500L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2009ApJ...693.1500L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3618,7 +3390,6 @@ archivePrefix = {arXiv},
        eprint = {0911.2936},
  primaryClass = {astro-ph.EP},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2009astro2010S.151K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2009astro2010S.151K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3633,14 +3404,13 @@ archivePrefix = {arXiv},
         pages = {533},
           doi = {10.48550/arXiv.0809.3380},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008hsf2.book..533T},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008hsf2.book..533T.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2008ApJ...688..583H,
        author = {{Heinze}, A.~N. and {Hinz}, Philip M. and {Kenworthy}, Matthew and {Miller}, Douglas and {Sivanandam}, Suresh},
         title = "{Deep L'- and M-band Imaging for Planets around Vega and epsilon Eridani}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {instrumentation: adaptive optics, planetary systems, stars: individual: Vega epsilon Eridani, techniques: image processing, Astrophysics},
          year = 2008,
         month = nov,
@@ -3652,7 +3422,6 @@ archivePrefix = {arXiv},
        eprint = {0807.3975},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008ApJ...688..583H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008ApJ...688..583H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3669,7 +3438,6 @@ archivePrefix = {arXiv},
         pages = {70133A},
           doi = {10.1117/12.789939},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008SPIE.7013E..3AW},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008SPIE.7013E..3AW.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3686,7 +3454,6 @@ archivePrefix = {arXiv},
         pages = {70155D},
           doi = {10.1117/12.790024},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008SPIE.7015E..5DC},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008SPIE.7015E..5DC.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3703,14 +3470,13 @@ archivePrefix = {arXiv},
         pages = {701563},
           doi = {10.1117/12.789623},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008SPIE.7015E..63K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008SPIE.7015E..63K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2008ApJ...676.1082S,
        author = {{Skemer}, Andrew J. and {Close}, Laird M. and {Hinz}, Philip M. and {Hoffmann}, William F. and {Kenworthy}, Matthew A. and {Miller}, Douglas L.},
         title = "{Evidence for Misaligned Disks in the T Tauri Triple System: 10 {\ensuremath{\mu}}m Superresolution with MMTAO and Markov Chains}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {binaries: visual, instrumentation: adaptive optics, planetary systems: protoplanetary disks, techniques: high angular resolution, techniques: image processing, techniques: photometric, Astrophysics},
          year = 2008,
         month = apr,
@@ -3722,7 +3488,6 @@ archivePrefix = {arXiv},
        eprint = {0712.1595},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008ApJ...676.1082S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008ApJ...676.1082S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3736,14 +3501,13 @@ archivePrefix = {arXiv},
           eid = {E42},
         pages = {E42},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2008amos.confE..42G},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2008amos.confE..42G.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2007ApJS..173..143B,
        author = {{Biller}, Beth A. and {Close}, Laird M. and {Masciadri}, Elena and {Nielsen}, Eric and {Lenzen}, Rainer and {Brandner}, Wolfgang and {McCarthy}, Donald and {Hartung}, Markus and {Kellner}, Stephan and {Mamajek}, Eric and {Henning}, Thomas and {Miller}, Douglas and {Kenworthy}, Matthew and {Kulesa}, Craig},
         title = "{An Imaging Survey for Extrasolar Planets around 45 Close, Young Stars with the Simultaneous Differential Imager at the Very Large Telescope and MMT}",
-      journal = {ApJS},
+      journal = {\apjs},
      keywords = {Instrumentation: Adaptive Optics, Stars: Planetary Systems},
          year = 2007,
         month = nov,
@@ -3752,14 +3516,13 @@ archivePrefix = {arXiv},
         pages = {143-165},
           doi = {10.1086/519925},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007ApJS..173..143B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007ApJS..173..143B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2007MNRAS.380.1285P,
        author = {{Pavlenko}, Ya. V. and {Jones}, H.~R.~A. and {Mart{\'\i}n}, E.~L. and {Guenther}, E. and {Kenworthy}, M.~A. and {Zapatero Osorio}, M.~R.},
         title = "{Lithium in LP944-20}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {stars: abundances, stars: evolution, stars: fundamental parameters, stars: individual: LP944-20, stars: late-type, stars: low-mass, brown dwarfs, Astrophysics},
          year = 2007,
         month = sep,
@@ -3771,7 +3534,6 @@ archivePrefix = {arXiv},
        eprint = {0707.0694},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007MNRAS.380.1285P},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007MNRAS.380.1285P.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3785,7 +3547,6 @@ archivePrefix = {arXiv},
           eid = {51},
         pages = {51},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007lyot.confE..51W},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007lyot.confE..51W.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3799,14 +3560,13 @@ archivePrefix = {arXiv},
           eid = {23},
         pages = {23},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007lyot.confE..23K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007lyot.confE..23K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2007ApJ...660..762K,
        author = {{Kenworthy}, Matthew A. and {Codona}, Johanan L. and {Hinz}, Philip M. and {Angel}, J. Roger P. and {Heinze}, Ari and {Sivanandam}, Suresh},
         title = "{First On-Sky High-Contrast Imaging with an Apodizing Phase Plate}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {Instrumentation: High Angular Resolution, stars: individual ({\ensuremath{\mu}} Her A), Stars: Low-Mass, Brown Dwarfs, Astrophysics},
          year = 2007,
         month = may,
@@ -3818,7 +3578,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0702324},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007ApJ...660..762K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007ApJ...660..762K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3834,14 +3593,13 @@ archivePrefix = {arXiv},
         pages = {1031613},
           doi = {10.1117/12.718731},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007SPIE10316E..13D},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007SPIE10316E..13D.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2007ApJ...658.1164L,
        author = {{Liu}, Wilson M. and {Hinz}, Philip M. and {Meyer}, Michael R. and {Mamajek}, Eric E. and {Hoffmann}, William F. and {Brusa}, Guido and {Miller}, Doug and {Kenworthy}, Matthew A.},
         title = "{Observations of Herbig Ae Disks with Nulling Interferometry}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {Stars: Circumstellar Matter, Instrumentation: Adaptive Optics, Stars: Pre-Main-Sequence, Techniques: Interferometric, Astrophysics},
          year = 2007,
         month = apr,
@@ -3853,7 +3611,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0612448},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007ApJ...658.1164L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007ApJ...658.1164L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3867,14 +3624,13 @@ archivePrefix = {arXiv},
           eid = {E58},
         pages = {E58},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2007amos.confE..58H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2007amos.confE..58H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2006ApJ...653.1486H,
        author = {{Hinz}, Philip M. and {Heinze}, A.~N. and {Sivanandam}, Suresh and {Miller}, Douglas L. and {Kenworthy}, Matthew A. and {Brusa}, Guido and {Freed}, Melanie and {Angel}, J.~R.~P.},
         title = "{Thermal Infrared Constraint to a Planetary Companion of Vega with the MMT Adaptive Optics System}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {Infrared: Stars, Instrumentation: Adaptive Optics, Stars: Planetary Systems, Stars: Individual: Name: Vega, Astrophysics},
          year = 2006,
         month = dec,
@@ -3886,20 +3642,18 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0606129},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2006ApJ...653.1486H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2006ApJ...653.1486H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2006IAUC.8772....1W,
        author = {{Woodward}, C.~E. and {Kelley}, M.~S. and {Hinz}, P.~M. and {Kenworthy}, M.~A. and {Hoffman}, W.~F.},
         title = "{Comet C/2006 M4 (Swan)}",
-      journal = {IAUC},
+      journal = {\iaucirc},
          year = 2006,
         month = nov,
        volume = {8772},
         pages = {1},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2006IAUC.8772....1W},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2006IAUC.8772....1W.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3916,7 +3670,6 @@ archivePrefix = {arXiv},
         pages = {62760V},
           doi = {10.1117/12.672593},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2006SPIE.6276E..0VK},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2006SPIE.6276E..0VK.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3933,7 +3686,6 @@ archivePrefix = {arXiv},
         pages = {62691N},
           doi = {10.1117/12.672727},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2006SPIE.6269E..1NC},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2006SPIE.6269E..1NC.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -3950,14 +3702,13 @@ archivePrefix = {arXiv},
         pages = {62723B},
           doi = {10.1117/12.672577},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2006SPIE.6272E..3BK},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2006SPIE.6272E..3BK.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2006AJ....131...41P,
        author = {{Pindor}, Bart and {Eisenstein}, Daniel J. and {Gregg}, Michael D. and {Becker}, Robert H. and {Inada}, Naohisa and {Oguri}, Masamune and {Hall}, Patrick B. and {Johnston}, David E. and {Richards}, Gordon T. and {Schneider}, Donald P. and {Turner}, Edwin L. and {Brasi}, Guido and {Hinz}, Philip M. and {Kenworthy}, Matthew A. and {Miller}, Doug and {Barentine}, J.~C. and {Brewington}, Howard J. and {Brinkmann}, J. and {Harvanek}, Michael and {Kleinman}, S.~J. and {Krzesinski}, Jurek and {Long}, Dan and {Neilsen}, Eric H., Jr. and {Newman}, Peter R. and {Nitta}, Atsuko and {Snedden}, Stephanie A. and {York}, Donald G.},
         title = "{SDSS J102111.02+491330.4: A Newly Discovered Gravitationally Lensed Quasar}",
-      journal = {AJ},
+      journal = {\aj},
      keywords = {Gravitational Lensing, Galaxies: Quasars: General, Astrophysics},
          year = 2006,
         month = jan,
@@ -3969,14 +3720,13 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0509296},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2006AJ....131...41P},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2006AJ....131...41P.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2005ApJS..161..154H,
        author = {{Hanson}, M.~M. and {Kudritzki}, R. -P. and {Kenworthy}, M.~A. and {Puls}, J. and {Tokunaga}, A.~T.},
         title = "{A Medium Resolution Near-Infrared Spectral Atlas of O and Early-B Stars}",
-      journal = {ApJS},
+      journal = {\apjs},
      keywords = {Atlases, Infrared: Stars, Stars: Early-Type, Stars: Fundamental Parameters, Techniques: Spectroscopic, Astrophysics},
          year = 2005,
         month = nov,
@@ -3988,7 +3738,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0506705},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2005ApJS..161..154H},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2005ApJS..161..154H.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4008,14 +3757,13 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0411479},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2005ASSL..327..245M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2005ASSL..327..245M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2005ApJ...618L.133L,
        author = {{Liu}, Wilson M. and {Hinz}, Philip M. and {Hoffmann}, William F. and {Brusa}, Guido and {Miller}, Doug and {Kenworthy}, Matthew A.},
         title = "{Resolved Mid-Infrared Emission around AB Aurigae and V892 Tauri with Adaptive Optics Nulling Interferometric Observations}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {Stars: Circumstellar Matter, Instrumentation: Adaptive Optics, Stars: Individual: Constellation Name: AB Aurigae, Stars: Individual: Constellation Name: V892 Tauri, Stars: Pre-Main-Sequence, Techniques: Interferometric, Astrophysics},
          year = 2005,
         month = jan,
@@ -4027,7 +3775,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0412337},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2005ApJ...618L.133L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2005ApJ...618L.133L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4046,7 +3793,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0506327},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2005IAUS..227..285A},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2005IAUS..227..285A.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4062,7 +3808,6 @@ archivePrefix = {arXiv},
         pages = {351-358},
           doi = {10.1117/12.551023},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2004SPIE.5490..351K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2004SPIE.5490..351K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4078,7 +3823,6 @@ archivePrefix = {arXiv},
         pages = {23-33},
           doi = {10.1117/12.552513},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2004SPIE.5490...23B},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2004SPIE.5490...23B.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4094,14 +3838,13 @@ archivePrefix = {arXiv},
         pages = {207-215},
           doi = {10.1117/12.552478},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2004SPIE.5490..207M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2004SPIE.5490..207M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2004ApJ...610L.125L,
        author = {{Liu}, Wilson M. and {Hinz}, Philip M. and {Hoffmann}, William F. and {Brusa}, Guido and {Wildi}, Francois and {Miller}, Doug and {Lloyd-Hart}, Michael and {Kenworthy}, Matthew A. and {McGuire}, Patrick C. and {Angel}, J.~R.~P.},
         title = "{Adaptive Optics Nulling Interferometric Constraints on the Mid-Infrared Exozodiacal Dust Emission around Vega}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {Stars: Circumstellar Matter, Instrumentation: Adaptive Optics, Stars: Individual: Name: Vega, Techniques: Interferometric, Astrophysics},
          year = 2004,
         month = aug,
@@ -4113,14 +3856,13 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0406587},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2004ApJ...610L.125L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2004ApJ...610L.125L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2004PASP..116...97K,
        author = {{Kenworthy}, Matthew A. and {Hanson}, Margaret M.},
         title = "{Minimizing Strong Telluric Absorption in Near-Infrared Stellar Spectra}",
-      journal = {PASP},
+      journal = {\pasp},
      keywords = {Methods: Data Analysis, Techniques: Spectroscopic, Astrophysics},
          year = 2004,
         month = jan,
@@ -4132,7 +3874,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0310588},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2004PASP..116...97K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2004PASP..116...97K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4146,7 +3887,6 @@ archivePrefix = {arXiv},
         month = jan,
         pages = {455},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2004IAUS..202..455K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2004IAUS..202..455K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4162,14 +3902,13 @@ archivePrefix = {arXiv},
         pages = {1705-1714},
           doi = {10.1117/12.461762},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2003SPIE.4841.1705R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2003SPIE.4841.1705R.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2003PASP..115..322K,
        author = {{Kenworthy}, M.~A. and {Hinz}, P.~M.},
         title = "{Spectrophotometry with a Transmission Grating for Detecting Faint Occultations}",
-      journal = {PASP},
+      journal = {\pasp},
      keywords = {stars: individual (HD 209458), Techniques: Spectroscopic, Astrophysics},
          year = 2003,
         month = mar,
@@ -4181,14 +3920,13 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0212215},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2003PASP..115..322K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2003PASP..115..322K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2002ApJ...580..285T,
        author = {{Tothill}, N.~F.~H. and {White}, Glenn J. and {Matthews}, H.~E. and {McCutcheon}, W.~H. and {McCaughrean}, M.~J. and {Kenworthy}, M.~A.},
         title = "{The Structure and Evolution of the Lagoon Nebula. I. Submillimeter Continuum and CO Line Mapping}",
-      journal = {ApJ},
+      journal = {\apj},
      keywords = {ISM: H II Regions, ISM: Individual: Messier Number: M8, ISM: Structure, Stars: Formation, Submillimeter},
          year = 2002,
         month = nov,
@@ -4197,14 +3935,13 @@ archivePrefix = {arXiv},
         pages = {285-304},
           doi = {10.1086/343068},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2002ApJ...580..285T},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2002ApJ...580..285T.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2002MNRAS.330..772O,
        author = {{Ogley}, R.~N. and {Chaty}, S. and {Crocker}, M. and {Eyres}, S.~P.~S. and {Kenworthy}, M.~A. and {Richards}, A.~M.~S. and {Rodr{\'\i}guez}, L.~F. and {Stirling}, A.~M.},
         title = "{A search for radio emission from Galactic supersoft X-ray sources}",
-      journal = {MNRAS},
+      journal = {\mnras},
      keywords = {BINARIES: GENERAL, NOVAE, CATACLYSMIC VARIABLES, WHITE DWARFS, RADIO CONTINUUM: STARS, X-RAYS: STARS, binaries: general, novae, cataclysmic variables, white dwarfs, radio continuum: stars, X-rays: stars, Astrophysics},
          year = 2002,
         month = mar,
@@ -4216,14 +3953,13 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0111120},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2002MNRAS.330..772O},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2002MNRAS.330..772O.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2001ApJ...554L..67K,
        author = {{Kenworthy}, Matthew and {Hofmann}, Karl-Heinz and {Close}, Laird and {Hinz}, Phil and {Mamajek}, Eric and {Schertl}, Dieter and {Weigelt}, Gerd and {Angel}, Roger and {Balega}, Yuri Y. and {Hinz}, Joannah and {Rieke}, George},
         title = "{Gliese 569B: A Young Multiple Brown Dwarf System?}",
-      journal = {ApJL},
+      journal = {\apjl},
      keywords = {Stars: Binaries: General, Stars: Evolution, Stars: Formation, Stars: Individual: Alphanumeric: Gl 569, Stars: Low-Mass, Brown Dwarfs, Astrophysics},
          year = 2001,
         month = jun,
@@ -4235,14 +3971,13 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0105157},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2001ApJ...554L..67K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2001ApJ...554L..67K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @ARTICLE{2001PASP..113..215K,
        author = {{Kenworthy}, Matthew A. and {Parry}, Ian R. and {Taylor}, Keith},
         title = "{SPIRAL Phase A: A Prototype Integral Field Spectrograph for the Anglo-AustralianTelescope}",
-      journal = {PASP},
+      journal = {\pasp},
      keywords = {Instrumentation: Spectrographs, stars: individual (LP 944-20), Stars: Low-Mass, Brown Dwarfs, Stars: Supernovae: Individual: Alphanumeric: SN 1987A, Astrophysics},
          year = 2001,
         month = feb,
@@ -4254,7 +3989,6 @@ archivePrefix = {arXiv},
        eprint = {astro-ph/0010529},
  primaryClass = {astro-ph},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2001PASP..113..215K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2001PASP..113..215K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4270,7 +4004,6 @@ archivePrefix = {arXiv},
         pages = {699-705},
           doi = {10.1117/12.394032},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2000SPIE.4013..699A},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2000SPIE.4013..699A.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4286,7 +4019,6 @@ archivePrefix = {arXiv},
         pages = {167-174},
           doi = {10.1117/12.390307},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2000SPIE.4007..167L},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2000SPIE.4007..167L.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4299,7 +4031,6 @@ archivePrefix = {arXiv},
        volume = {120},
         pages = {81-82},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2000Obs...120...81K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/2000Obs...120...81K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4314,7 +4045,6 @@ archivePrefix = {arXiv},
           eid = {87.13},
         pages = {87.13},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1999AAS...195.8713R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1999AAS...195.8713R.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4330,7 +4060,6 @@ archivePrefix = {arXiv},
         pages = {269-282},
           doi = {10.1117/12.363583},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1999SPIE.3762..269M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1999SPIE.3762..269M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4346,7 +4075,6 @@ archivePrefix = {arXiv},
         pages = {161-173},
           doi = {10.1117/12.363571},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1999SPIE.3762..161R},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1999SPIE.3762..161R.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4362,7 +4090,6 @@ archivePrefix = {arXiv},
         pages = {28-37},
           doi = {10.1117/12.363598},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1999SPIE.3762...28M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1999SPIE.3762...28M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4374,7 +4101,6 @@ archivePrefix = {arXiv},
          year = 1998,
         month = dec,
        adsurl = {https://ui.adsabs.harvard.edu/abs/1998PhDT.......326K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1998PhDT.......326K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4390,7 +4116,6 @@ archivePrefix = {arXiv},
         pages = {668-674},
           doi = {10.1117/12.317329},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1998SPIE.3354..668E},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1998SPIE.3354..668E.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4406,7 +4131,6 @@ archivePrefix = {arXiv},
         pages = {14-23},
           doi = {10.1117/12.317260},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1998SPIE.3354...14M},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1998SPIE.3354...14M.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4422,7 +4146,6 @@ archivePrefix = {arXiv},
         pages = {926-931},
           doi = {10.1117/12.316843},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1998SPIE.3355..926K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1998SPIE.3355..926K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4437,7 +4160,6 @@ archivePrefix = {arXiv},
         month = jan,
         pages = {300},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1998ASPC..152..300K},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1998ASPC..152..300K.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4451,7 +4173,6 @@ archivePrefix = {arXiv},
        volume = {84},
         pages = {7-9},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1998AAONw..84....7S},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1998AAONw..84....7S.pdf},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -4467,8 +4188,6 @@ archivePrefix = {arXiv},
         pages = {1325-1331},
           doi = {10.1117/12.269024},
        adsurl = {https://ui.adsabs.harvard.edu/abs/1997SPIE.2871.1325P},
-		  pdf = {https://home.strw.leidenuniv.nl/\%7Ekenworthy/papers/1997SPIE.2871.1325P.pdf},
-	  preview = {1997SPIE.2871.1325P.jpg},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
