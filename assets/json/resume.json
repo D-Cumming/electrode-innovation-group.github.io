@@ -13,7 +13,9 @@
       "city": "Leiden",
       "countryCode": "NL",
       "region": "Zuid Holland"
-    },
+    }
+  }
+}
   //   "profiles": [
   //     {
   //       "network": "Twitter",
@@ -196,4 +198,3 @@
   //     "url": "https://example.com"
   //   }
   // ]
-}
