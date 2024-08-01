@@ -8,8 +8,8 @@ children:
   - title: CV
     permalink: /cv/
   - title: divider
-  - title: Projects
-    permalink: /projects/
+  - title: Research
+    permalink: /research/
   - title: divider
   - title: Teaching
     permalink: /teaching/

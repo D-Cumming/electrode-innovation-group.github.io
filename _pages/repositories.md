@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repos
+title: repos
 description: GitHub repositories of software and academic papers that I have written.
-nav: true
+nav: false
 nav_order: 10
 ---
 

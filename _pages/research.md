@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Research projects at Leiden Observatory
+title: Research
+permalink: /research/
+description: Research by Kenworthy and his group at Leiden Observatory
 nav: true
 nav_order: 2
 #display_categories: [work, fun]

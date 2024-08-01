@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /groovy/
-title: GROOVY!
-description: The GROOVY Group at Leiden Observatory
+permalink: /group/
+title: Group
+description: The GROOVY! Group at Leiden Observatory
 nav: true
 nav_order: 1
 ---
