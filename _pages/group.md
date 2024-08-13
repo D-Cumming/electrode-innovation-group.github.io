@@ -12,7 +12,7 @@ The Kenworthy group at Leiden Observatory is called the GROOVY Group
 
 Current PhD students include:
 
-Elina Kleisioti
+Elina Kleisioti (with Dominic Dirkx)
 Dirk van Dam
 Richelle van Capelleveen
 Pengyu Liu (with Beth Biller)
