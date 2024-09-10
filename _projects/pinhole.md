@@ -3,7 +3,7 @@ layout: page
 title: Pinhole Cameras
 description: Long exposure photography around Leiden
 img: assets/img/pinhole/2022-12-18_pinhole_composite.jpg
-importance: 10
+importance: 20
 category: instruments
 related_publications: false
 ---

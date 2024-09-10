@@ -3,7 +3,7 @@ layout: page
 title: YSES and WiSPIT
 description: Directly imaged exoplanets around Sun-like stars
 img: assets/img/yses/yses2_mondrian_small.jpg
-importance: 1
+importance: 2
 category: exoplanets
 related_publications: true
 ---
@@ -12,7 +12,7 @@ My former graduate student <a href="https://home.strw.leidenuniv.nl/~bohn/">Dr. 
 
 <h2>YSES 1b and 1c</h2>
 
-Looking through the first set of second epoch images, Alex discovered our first exoplanet companion, YSES 1b, a 14 Jupiter mass companion around a 1.0 Solar mass star (<A href="https://home.strw.leidenuniv.nl/~kenworthy/papers/2020MNRAS.492..431B.pdf">Bohn et al. 2020a</a>), and then whilst taking data to characterise YSES 1b, Alex discovered a more distant companion from YSES 1, and this is a 6 Jupiter mass exoplanet some 320au away from the star (<a href="https://home.strw.leidenuniv.nl/~kenworthy/papers/2020ApJ...898L..16B.pdf">Bohn et al. 2020b</a>).
+Looking through the first set of second epoch images, Alex discovered our first exoplanet companion, YSES 1b, a 14 Jupiter mass companion around a 1.0 Solar mass star {% cite 2020MNRAS.492..431B %}, and then whilst taking data to characterise YSES 1b, Alex discovered a more distant companion from YSES 1, and this is a 6 Jupiter mass exoplanet some 320au away from the star {% cite 2020ApJ...898L..16B %}.
 
 
 <div class="row">
@@ -21,7 +21,7 @@ Looking through the first set of second epoch images, Alex discovered our first 
     </div>
 </div>
 <div class="caption">
-    Two images taken about one year apart show the common proper motion of the YSES 1 planets and their parent star through the Galaxy, shown with the jumping of the background stars. Credit: A. Bohn/Leiden from <a href="https://home.strw.leidenuniv.nl/~kenworthy/papers/2020ApJ...898L..16B.pdf">Bohn, Kenworthy, Ginski et al. (2020)</a>.
+    Two images taken about one year apart show the common proper motion of the YSES 1 planets and their parent star through the Galaxy, shown with the jumping of the background stars. Credit: A. Bohn/Leiden {% cite 2020ApJ...898L..16B %}.
 </div>
 
 
@@ -32,12 +32,12 @@ Looking through the first set of second epoch images, Alex discovered our first 
     </div>
 </div>
 <div class="caption">
-    Images of the YSES 1 exoplanet system at several different wavelengths from 1 to 4.8 microns. As you go to longer wavelengths, the exoplanets are brighter at longer wavelengths where the peak of their spectral energy distribution lies. Credit: A. Bohn/Leiden from <a href="https://home.strw.leidenuniv.nl/~kenworthy/papers/2020ApJ...898L..16B.pdf">Bohn, Kenworthy, Ginski et al. (2020)</a>
+    Images of the YSES 1 exoplanet system at several different wavelengths from 1 to 4.8 microns. As you go to longer wavelengths, the exoplanets are brighter at longer wavelengths where the peak of their spectral energy distribution lies. Credit: A. Bohn/Leiden {% cite 2020ApJ...898L..16B %}.
 </div>
 
 <h2>YSES 2</h2>
 
-The YSES survey announced the discovery of a second directly imaged exoplanet system (<a href="https://home.strw.leidenuniv.nl/~kenworthy/papers/Bohn_2021_AA_648_73.pdf">Bohn et al. 2021</a>), this time with a 6 Jupiter mass exoplanet with a projected orbit of 115au. What's interesting is that this was the second discovery when only a third of the stars have been observed for their second epoch observations, suggesting that we may well find more exoplanet systems in the rest of the survey.
+The YSES survey announced the discovery of a second directly imaged exoplanet system {% cite 2021A&A...648A..73B %}, this time with a 6 Jupiter mass exoplanet with a projected orbit of 115au. What's interesting is that this was the second discovery when only a third of the stars have been observed for their second epoch observations, suggesting that we may well find more exoplanet systems in the rest of the survey.
 
 
 <div class="row">
@@ -46,12 +46,12 @@ The YSES survey announced the discovery of a second directly imaged exoplanet sy
     </div>
 </div>
 <div class="caption">
-    The young exoplanet YSES 2b as seen in two different epochs and two different filters. The planet has an estimated mass of about 6 Jupiter masses: <a href="https://home.strw.leidenuniv.nl/~kenworthy/papers/Bohn_2021_AA_648_73.pdf">Bohn et al. (2021) A&A, 648, 73</a>.
+    The young exoplanet YSES 2b as seen in two different epochs and two different filters. The planet has an estimated mass of about 6 Jupiter masses {% cite 2021A&A...648A..73B %}.
 </div>
 
 <h2>A disk around Wray 15-788</h2>
 
-One of the first discoveries from YSES was a circumstellar disk around the star Wray 15-788 (<A href="https://home.strw.leidenuniv.nl/~kenworthy/papers/2019A&A...624A..87B.pdf">Bohn et al. 2019</a>), showing detailed circumstellar structure and shadowing from the inner rings onto the outer rings. Future observations will constrain the nature of the ring material and the geometry of inner structures closer to the star.
+One of the first discoveries from YSES was a circumstellar disk around the star Wray 15-788 {% cite 2019A&A...624A..87B %}, showing detailed circumstellar structure and shadowing from the inner rings onto the outer rings. Future observations will constrain the nature of the ring material and the geometry of inner structures closer to the star.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -59,6 +59,6 @@ One of the first discoveries from YSES was a circumstellar disk around the star 
     </div>
 </div>
 <div class="caption">
- Image of the circumstellar disk around Wray 15-788. Two rings are visible with a shadowed gap between them. An inner disk casts a shodown on the outer disk, hiding the rest of the circumstellar disks from view. <A href="https://home.strw.leidenuniv.nl/~kenworthy/papers/2019A&A...624A..87B.pdf">Bohn et al. (2019) A&A, 64, 87</a>.
+ Image of the circumstellar disk around Wray 15-788. Two rings are visible with a shadowed gap between them. An inner disk casts a shodown on the outer disk, hiding the rest of the circumstellar disks from view {% cite 2019A&A...624A..87B %}.
 </div>
 

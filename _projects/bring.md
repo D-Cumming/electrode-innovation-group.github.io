@@ -3,7 +3,7 @@ layout: page
 title: bRing
 description: The Beta Pictoris b ring project
 img: assets/img/bring/bring_image.jpg
-importance: 2
+importance: 10
 category: betapic
 related_publications: true
 ---

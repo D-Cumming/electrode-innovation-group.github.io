@@ -2,12 +2,13 @@
 layout: page
 title: ASASSN-21js
 description: A multi-year transit of a ringed disc
-img: assets/img/asassn21js/21js_banner.png
-importance: 9
+img: assets/img/asassn21js/21js_banner_ly.png
+importance: 1
 category: exorings
 related_publications: true
 ---
 
+Header image: The ASASSN-21js ringed disk companion eclipsing the star, by K. Ly (August 2024).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
